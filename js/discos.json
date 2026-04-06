@@ -5,7 +5,7 @@
       "albuns": [
         {
           "nome": "Clube da Esquina",
-          "capa": "../img/países/Brasil/Clube da Esquina.jpg",
+          "capa": "img/países/Brasil/Clube da Esquina.jpg",
           "ano": 1972,
           "artistas": ["Milton Nascimento", "Lô Borges"],
           "generos": ["MPB", "Rock", "Jazz"],
@@ -44,7 +44,7 @@
         },
         {
           "nome": "De Pé no Chão",
-          "capa": "../img/países/Brasil/de pé no chão.webp",
+          "capa": "img/países/Brasil/de pé no chão.webp",
           "ano": 1978,
           "artistas": ["Beth Carvalho"],
           "generos": ["Samba", "MPB"],
@@ -57,7 +57,7 @@
         },
         {
           "nome": "Sobrevivendo no Inferno",
-          "capa": "../img/países/Brasil/Sobrevivendo no Inferno.jpg",
+          "capa": "img/países/Brasil/Sobrevivendo no Inferno.jpg",
           "ano": 1997,
           "artistas": ["Racionais MC's"],
           "generos": ["Hip-Hop", "Rap", "Hip-Hop Político"],
@@ -70,7 +70,7 @@
         },
         {
           "nome": "Claridade",
-          "capa": "../img/países/Brasil/Claridade.jpg",
+          "capa": "img/países/Brasil/Claridade.jpg",
           "ano": 1975,
           "artistas": ["Clara Nunes"],
           "generos": ["Samba", "MPB"],
@@ -83,7 +83,7 @@
         },
         {
           "nome": "Construção",
-          "capa": "../img/países/Brasil/Construção.jpg",
+          "capa": "img/países/Brasil/Construção.jpg",
           "ano": 1971,
           "artistas": ["Chico Buarque"],
           "generos": ["MPB", "Samba"],
@@ -96,7 +96,7 @@
         },
         {
           "nome": "Roots",
-          "capa": "../img/países/Brasil/Roots.jpg",
+          "capa": "img/países/Brasil/Roots.jpg",
           "ano": 1996,
           "artistas": ["Sepultura"],
           "generos": ["Groove Metal", "Nu Metal", "Alternative Metal"],
@@ -109,7 +109,7 @@
         },
         {
           "nome": "Da Lama ao Caos",
-          "capa": "../img/países/Brasil/da lama ao caos.jpg",
+          "capa": "img/países/Brasil/da lama ao caos.jpg",
           "ano": 1994,
           "artistas": ["Chico Science", "Nação Zumbi"],
           "generos": ["Manguebeat", "Rock", "Funk", "Hip-Hop"],
@@ -122,7 +122,7 @@
         },
         {
           "nome": "Boladona",
-          "capa": "../img/países/Brasil/Boladona.jpg",
+          "capa": "img/países/Brasil/Boladona.jpg",
           "ano": 2004,
           "artistas": ["Tati Quebra Barraco", "DJ Marlboro"],
           "generos": ["Funk Carioca", "Música Eletrônica"],
@@ -140,7 +140,7 @@
       "albuns": [
         {
           "nome": "Tesura",
-          "capa": "../img/países/Colombia/Tesura.jpg",
+          "capa": "img/países/Colombia/Tesura.jpg",
           "ano": 1970,
           "artistas": ["Fruko y sus Tesos"],
           "generos": ["Salsa", "Guaguancó", "Música Tropical"],
@@ -153,7 +153,7 @@
         },
         {
           "nome": "Pies Descalzos",
-          "capa": "../img/países/Colombia/Pies Descalzos.jpg",
+          "capa": "img/países/Colombia/Pies Descalzos.jpg",
           "ano": 1995,
           "artistas": ["Shakira"],
           "generos": ["Pop Rock", "Latin Rock", "Alternative Rock"],
@@ -166,7 +166,7 @@
         },
         {
           "nome": "La Gran Feria",
-          "capa": "../img/países/Colombia/La Gran Feria.jpg",
+          "capa": "img/países/Colombia/La Gran Feria.jpg",
           "ano": 1973,
           "artistas": ["La Banda Nueva"],
           "generos": ["Rock Progressivo", "Jazz-Rock", "Fusão"],
@@ -179,7 +179,7 @@
         },
         {
           "nome": "Psicodelicias",
-          "capa": "../img/países/Colombia/Psicodelicias.jpg",
+          "capa": "img/países/Colombia/Psicodelicias.jpg",
           "ano": 1967,
           "artistas": ["The Flippers"],
           "generos": ["Garage Rock", "Psychedelic Rock"],
@@ -192,7 +192,7 @@
         },
         {
           "nome": "La Muerte...Un Compromiso De Todos",
-          "capa": "../img/países/Colombia/La muerte.jpg",
+          "capa": "img/países/Colombia/La muerte.jpg",
           "ano": 1989,
           "artistas": ["La Pestilencia"],
           "generos": ["Hardcore Punk", "Metal"],
@@ -205,7 +205,7 @@
         },
         {
           "nome": "Amanecer",
-          "capa": "../img/países/Colombia/Amanecer.webp",
+          "capa": "img/países/Colombia/Amanecer.webp",
           "ano": 2015,
           "artistas": ["Bomba Estéreo"],
           "generos": ["Electro Tropical", "Cumbia", "Pop"],
@@ -218,7 +218,7 @@
         },
         {
           "nome": "Cantos de Mi Tierra y de Mi Raza",
-          "capa": "../img/países/Colombia/Cantos de Mi Tierra y de Mi Raza.jpg",
+          "capa": "img/países/Colombia/Cantos de Mi Tierra y de Mi Raza.jpg",
           "ano": 1975,
           "artistas": ["Leonor González Mina"],
           "generos": ["Folclore Colombiano", "Afro-Colombiano"],
@@ -231,7 +231,7 @@
         },
         {
           "nome": "Caribe Atómico",
-          "capa": "../img/países/Colombia/Caribe Atomico.jpg",
+          "capa": "img/países/Colombia/Caribe Atomico.jpg",
           "ano": 1998,
           "artistas": ["Aterciopelados"],
           "generos": ["Rock Alternativo", "Electro Rock", "Latin Rock"],
@@ -244,7 +244,7 @@
         },
         {
           "nome": "Un Día Normal",
-          "capa": "../img/países/Colombia/Un dia normal.jpg",
+          "capa": "img/países/Colombia/Un dia normal.jpg",
           "ano": 2002,
           "artistas": ["Juanes"],
           "generos": ["Pop Rock", "Latin Rock"],
@@ -257,7 +257,7 @@
         },
         {
           "nome": "Vibras",
-          "capa": "../img/países/Colombia/Vibras.jpg",
+          "capa": "img/países/Colombia/Vibras.jpg",
           "ano": 2018,
           "artistas": ["J Balvin"],
           "generos": ["Reggaeton", "Latin Pop", "Trap Latino"],
@@ -275,7 +275,7 @@
       "albuns": [
         {
           "nome": "El Indio",
-          "capa": "../img/países/Chile/El indio.jpg",
+          "capa": "img/países/Chile/El indio.jpg",
           "ano": 1975,
           "artistas": ["Los Jaivas"],
           "generos": ["Rock Progressivo", "Folk Rock", "Andino"],
@@ -288,7 +288,7 @@
         },
         {
           "nome": "Las Últimas Composiciones",
-          "capa": "../img/países/Chile/Las Últimas Composiciones.jpg",
+          "capa": "img/países/Chile/Las Últimas Composiciones.jpg",
           "ano": 1966,
           "artistas": ["Violeta Parra"],
           "generos": ["Folclore Chileno", "Nueva Canción"],
@@ -301,7 +301,7 @@
         },
         {
           "nome": "Kaleidoscope Men",
-          "capa": "../img/países/Chile/Kaleidoscope men.jpg",
+          "capa": "img/países/Chile/Kaleidoscope men.jpg",
           "ano": 1967,
           "artistas": ["Los Mac's"],
           "generos": ["Rock Psicodélico", "Garage Rock"],
@@ -314,7 +314,7 @@
         },
         {
           "nome": "Ser Humano",
-          "capa": "../img/países/Chile/Ser humano.jpg",
+          "capa": "img/países/Chile/Ser humano.jpg",
           "ano": 1997,
           "artistas": ["Tiro de Gracia"],
           "generos": ["Hip-Hop", "Rap"],
@@ -327,7 +327,7 @@
         },
         {
           "nome": "La Población",
-          "capa": "../img/países/Chile/La Población.jpg",
+          "capa": "img/países/Chile/La Población.jpg",
           "ano": 1972,
           "artistas": ["Víctor Jara"],
           "generos": ["Nueva Canción", "Folk"],
@@ -340,7 +340,7 @@
         },
         {
           "nome": "Terra Incógnita",
-          "capa": "../img/países/Chile/Terra Incógnita.jpg",
+          "capa": "img/países/Chile/Terra Incógnita.jpg",
           "ano": 1975,
           "artistas": ["Congreso"],
           "generos": ["Jazz Fusion", "Rock Progressivo", "Folclore"],
@@ -353,7 +353,7 @@
         },
         {
           "nome": "Psychedelic Drugstore",
-          "capa": "../img/países/Chile/Psychedelic Drugstore.jpg",
+          "capa": "img/países/Chile/Psychedelic Drugstore.jpg",
           "ano": 1970,
           "artistas": ["Aguaturbia"],
           "generos": ["Rock Psicodélico", "Blues Rock"],
@@ -366,7 +366,7 @@
         },
         {
           "nome": "Fome",
-          "capa": "../img/países/Chile/Fome.jpg",
+          "capa": "img/países/Chile/Fome.jpg",
           "ano": 1997,
           "artistas": ["Los Tres"],
           "generos": ["Rock Alternativo", "Latin Rock"],
@@ -379,7 +379,7 @@
         },
         {
           "nome": "Mama Funk",
-          "capa": "../img/países/Chile/Mama funk.jpg",
+          "capa": "img/países/Chile/Mama funk.jpg",
           "ano": 1995,
           "artistas": ["Los Tetas"],
           "generos": ["Funk", "Hip-Hop", "Soul"],
@@ -392,7 +392,7 @@
         },
         {
           "nome": "Pateando Piedras",
-          "capa": "../img/países/Chile/Pateando Piedras.jpg",
+          "capa": "img/países/Chile/Pateando Piedras.jpg",
           "ano": 1986,
           "artistas": ["Los Prisioneros"],
           "generos": ["Rock", "Pop Rock", "New Wave"],
@@ -410,7 +410,7 @@
       "albuns": [
         {
           "nome": "Artaud",
-          "capa": "../img/países/Argentina/Artaud.jpg",
+          "capa": "img/países/Argentina/Artaud.jpg",
           "ano": 1973,
           "artistas": ["Pescado Rabioso", "Luis Alberto Spinetta"],
           "generos": ["Rock", "Rock Progressivo", "Psychedelic Rock"],
@@ -423,7 +423,7 @@
         },
         {
           "nome": "Tango: Zero Hour",
-          "capa": "../img/países/Argentina/Tango Zero Hour.jpg",
+          "capa": "img/países/Argentina/Tango Zero Hour.jpg",
           "ano": 1986,
           "artistas": ["Astor Piazzolla"],
           "generos": ["Tango", "Jazz", "Música Clássica"],
@@ -436,7 +436,7 @@
         },
         {
           "nome": "Giros",
-          "capa": "../img/países/Argentina/Giros.jpg",
+          "capa": "img/países/Argentina/Giros.jpg",
           "ano": 1985,
           "artistas": ["Fito Páez"],
           "generos": ["Rock", "Pop Rock"],
@@ -449,7 +449,7 @@
         },
         {
           "nome": "Alma de Diamante",
-          "capa": "../img/países/Argentina/Alma de Diamante.jpg",
+          "capa": "img/países/Argentina/Alma de Diamante.jpg",
           "ano": 1980,
           "artistas": ["Spinetta Jade"],
           "generos": ["Jazz Rock", "Fusion", "Rock"],
@@ -462,7 +462,7 @@
         },
         {
           "nome": "Hora de No Ver",
-          "capa": "../img/países/Argentina/Hora de No Ver.jpg",
+          "capa": "img/países/Argentina/Hora de No Ver.jpg",
           "ano": 1994,
           "artistas": ["Suárez"],
           "generos": ["Indie Rock", "Alternative Rock"],
@@ -475,7 +475,7 @@
         },
         {
           "nome": "El jardín de los presentes",
-          "capa": "../img/países/Argentina/El jardín de los presentes.jpg",
+          "capa": "img/países/Argentina/El jardín de los presentes.jpg",
           "ano": 1976,
           "artistas": ["Invisible"],
           "generos": ["Rock Progressivo", "Rock"],
@@ -488,7 +488,7 @@
         },
         {
           "nome": "Mujeres Argentinas",
-          "capa": "../img/países/Argentina/Mujeres Argentinas.jpg",
+          "capa": "img/países/Argentina/Mujeres Argentinas.jpg",
           "ano": 1969,
           "artistas": ["Mercedes Sosa"],
           "generos": ["Folclore Argentino", "Nueva Canción"],
@@ -501,7 +501,7 @@
         },
         {
           "nome": "Clics Modernos",
-          "capa": "../img/países/Argentina/Clics Modernos.jpg",
+          "capa": "img/países/Argentina/Clics Modernos.jpg",
           "ano": 1983,
           "artistas": ["Charly García"],
           "generos": ["Rock", "New Wave", "Synthpop"],
@@ -514,7 +514,7 @@
         },
         {
           "nome": "Dynamo",
-          "capa": "../img/países/Argentina/Dynamo.jpg",
+          "capa": "img/países/Argentina/Dynamo.jpg",
           "ano": 1992,
           "artistas": ["Soda Stereo"],
           "generos": ["Rock Alternativo", "Shoegaze", "Pop Rock"],
@@ -527,7 +527,7 @@
         },
         {
           "nome": "Pequeñas anécdotas sobre las instituciones",
-          "capa": "../img/países/Argentina/Pequeñas anécdotas sobre las instituciones.jpg",
+          "capa": "img/países/Argentina/Pequeñas anécdotas sobre las instituciones.jpg",
           "ano": 1974,
           "artistas": ["Sui Generis"],
           "generos": ["Rock", "Folk Rock"],
@@ -545,7 +545,7 @@
       "albuns": [
         {
           "nome": "Mateo solo bien se lame",
-          "capa": "../img/países/Uruguai/Mateo solo bien se lame.jpg",
+          "capa": "img/países/Uruguai/Mateo solo bien se lame.jpg",
           "ano": 1972,
           "artistas": ["Eduardo Mateo"],
           "generos": ["Candombe", "Folk", "MPB"],
@@ -558,7 +558,7 @@
         },
         {
           "nome": "Circa 1968",
-          "capa": "../img/países/Uruguai/Circa 1968.jpg",
+          "capa": "img/países/Uruguai/Circa 1968.jpg",
           "ano": 1968,
           "artistas": ["El Kinto"],
           "generos": ["Rock Psicodélico", "Candombe Beat"],
@@ -571,7 +571,7 @@
         },
         {
           "nome": "Magic Time",
-          "capa": "../img/países/Uruguai/Magic time.webp",
+          "capa": "img/países/Uruguai/Magic time.webp",
           "ano": 1977,
           "artistas": ["Opa"],
           "generos": ["Jazz Fusion", "Candombe"],
@@ -584,7 +584,7 @@
         },
         {
           "nome": "Totem",
-          "capa": "../img/países/Uruguai/Totem.jpg",
+          "capa": "img/países/Uruguai/Totem.jpg",
           "ano": 1971,
           "artistas": ["Totem"],
           "generos": ["Candombe Rock", "Funk"],
@@ -597,7 +597,7 @@
         },
         {
           "nome": "Tango que me hiciste mal...",
-          "capa": "../img/países/Uruguai/Tango que me hiciste mal.jpg",
+          "capa": "img/países/Uruguai/Tango que me hiciste mal.jpg",
           "ano": 1985,
           "artistas": ["Los Estómagos"],
           "generos": ["Punk Rock", "Post-Punk"],
@@ -610,7 +610,7 @@
         },
         {
           "nome": "Macumba",
-          "capa": "../img/países/Uruguai/Macumba.jpg",
+          "capa": "img/países/Uruguai/Macumba.jpg",
           "ano": 2013,
           "artistas": ["Hablan Por La Espalda"],
           "generos": ["Punk", "Garage Rock", "Psychedelic"],
@@ -623,7 +623,7 @@
         },
         {
           "nome": "Soy Sola",
-          "capa": "../img/países/Uruguai/Soy sola.jpg",
+          "capa": "img/países/Uruguai/Soy sola.jpg",
           "ano": 2006,
           "artistas": ["Ana Prada"],
           "generos": ["Pop", "Folk"],
@@ -636,7 +636,7 @@
         },
         {
           "nome": "Temas Pendientes",
-          "capa": "../img/países/Uruguai/Temas Pendientes.jpg",
+          "capa": "img/países/Uruguai/Temas Pendientes.jpg",
           "ano": 1998,
           "artistas": ["Malena Muyala"],
           "generos": ["Tango", "Canción"],
@@ -649,7 +649,7 @@
         },
         {
           "nome": "Canta Zitarrosa",
-          "capa": "../img/países/Uruguai/Canta Zitarrosa.jpg",
+          "capa": "img/países/Uruguai/Canta Zitarrosa.jpg",
           "ano": 1966,
           "artistas": ["Alfredo Zitarrosa"],
           "generos": ["Folclore", "Milonga"],
@@ -662,7 +662,7 @@
         },
         {
           "nome": "Amanecer búho",
-          "capa": "../img/países/Uruguai/Amanecer búho.jpg",
+          "capa": "img/países/Uruguai/Amanecer búho.jpg",
           "ano": 1999,
           "artistas": ["Buenos Muchachos"],
           "generos": ["Rock Alternativo", "Indie Rock"],
@@ -680,7 +680,7 @@
       "albuns": [
         {
           "nome": "El Inca",
-          "capa": "../img/países/Bolívia/el inca.jpg",
+          "capa": "img/países/Bolívia/el inca.jpg",
           "ano": 1973,
           "artistas": ["Wara"],
           "generos": ["Rock Progressivo", "Folk Andino"],
@@ -693,7 +693,7 @@
         },
         {
           "nome": "Reina del Folklore 1970-1971",
-          "capa": "../img/países/Bolívia/Reina-del-Folklore-1970-1971.jpg",
+          "capa": "img/países/Bolívia/Reina-del-Folklore-1970-1971.jpg",
           "ano": 1971,
           "artistas": ["Luzmila Carpio"],
           "generos": ["Folclore Andino", "Música Tradicional"],
@@ -706,7 +706,7 @@
         },
         {
           "nome": "Los Thuthanaka",
-          "capa": "../img/países/Bolívia/Los Thuthanaka.jpg",
+          "capa": "img/países/Bolívia/Los Thuthanaka.jpg",
           "ano": 2025,
           "artistas": ["Chuquimamani-Condori", "Joshua Chuquimia Crampton"],
           "generos": ["Experimental", "Electronic", "Andino"],
@@ -719,7 +719,7 @@
         },
         {
           "nome": "Canto a la mujer de mi Pueblo",
-          "capa": "../img/países/Bolívia/Canto a la mujer de mi Pueblo.jpg",
+          "capa": "img/países/Bolívia/Canto a la mujer de mi Pueblo.jpg",
           "ano": 1981,
           "artistas": ["Los Kjarkas"],
           "generos": ["Folclore Andino", "Huayño"],
@@ -732,7 +732,7 @@
         },
         {
           "nome": "Sangre Andina",
-          "capa": "../img/países/Bolívia/Sangre Andina.jpg",
+          "capa": "img/países/Bolívia/Sangre Andina.jpg",
           "ano": 1996,
           "artistas": ["Savia Andina"],
           "generos": ["Folclore Andino", "Huayño"],
@@ -745,7 +745,7 @@
         },
         {
           "nome": "Nunca Más",
-          "capa": "../img/países/Bolívia/Nunca Más.jpg",
+          "capa": "img/países/Bolívia/Nunca Más.jpg",
           "ano": 2003,
           "artistas": ["Atajo"],
           "generos": ["Rock", "Fusión"],
@@ -758,7 +758,7 @@
         },
         {
           "nome": "El Sapo",
-          "capa": "../img/países/Bolívia/el sapo.jpg",
+          "capa": "img/países/Bolívia/el sapo.jpg",
           "ano": 1999,
           "artistas": ["Azul Azul"],
           "generos": ["Pop", "Cumbia", "Dance"],
@@ -771,7 +771,7 @@
         },
         {
           "nome": "Resolana",
-          "capa": "../img/países/Bolívia/Resolana.jpg",
+          "capa": "img/países/Bolívia/Resolana.jpg",
           "ano": 1981,
           "artistas": ["Emma Junaro"],
           "generos": ["Folk", "Nueva Canción"],
@@ -784,7 +784,7 @@
         },
         {
           "nome": "Yayo Joffre y Los Jairas",
-          "capa": "../img/países/Bolívia/Yayo Joffre y Los Jairas.jpg",
+          "capa": "img/países/Bolívia/Yayo Joffre y Los Jairas.jpg",
           "ano": 1970,
           "artistas": ["Los Jairas"],
           "generos": ["Folclore Andino", "Huayño"],
@@ -797,7 +797,7 @@
         },
         {
           "nome": "El Disco De Oro",
-          "capa": "../img/países/Bolívia/El Disco De Oro.png",
+          "capa": "img/países/Bolívia/El Disco De Oro.png",
           "ano": 1982,
           "artistas": ["Zulma Yugar"],
           "generos": ["Folclore", "Huayño"],
@@ -815,7 +815,7 @@
       "albuns": [
         {
           "nome": "Tonadas",
-          "capa": "../img/países/Venezuela/Tonadas.jpg",
+          "capa": "img/países/Venezuela/Tonadas.jpg",
           "ano": 1974,
           "artistas": ["Simón Díaz"],
           "generos": ["Folclore Venezuelano", "Tonada"],
@@ -828,7 +828,7 @@
         },
         {
           "nome": "Muerte",
-          "capa": "../img/países/Venezuela/Muerte.jpg",
+          "capa": "img/países/Venezuela/Muerte.jpg",
           "ano": 2012,
           "artistas": ["Canserbero"],
           "generos": ["Rap", "Hip-Hop"],
@@ -841,7 +841,7 @@
         },
         {
           "nome": "Arca",
-          "capa": "../img/países/Venezuela/Arca.jpg",
+          "capa": "img/países/Venezuela/Arca.jpg",
           "ano": 2017,
           "artistas": ["Arca"],
           "generos": ["Experimental", "Electronic", "Avant-Pop"],
@@ -854,7 +854,7 @@
         },
         {
           "nome": "La Ofrenda De Vytas",
-          "capa": "../img/países/Venezuela/La Ofrenda De Vytas.jpg",
+          "capa": "img/países/Venezuela/La Ofrenda De Vytas.jpg",
           "ano": 1973,
           "artistas": ["Vytas Brenner"],
           "generos": ["Folk", "Rock Progressivo", "Fusion"],
@@ -867,7 +867,7 @@
         },
         {
           "nome": "Dimension Latina '75",
-          "capa": "../img/países/Venezuela/Dimension Latina '75.jpg",
+          "capa": "img/países/Venezuela/Dimension Latina '75.jpg",
           "ano": 1975,
           "artistas": ["La Dimension Latina","Oscar D'León","Wladimir Lozano"],
           "generos": ["Salsa"],
@@ -880,7 +880,7 @@
         },
         {
           "nome": "Al Norte del Sur",
-          "capa": "../img/países/Venezuela/Al Norte del Sur.jpg",
+          "capa": "img/países/Venezuela/Al Norte del Sur.jpg",
           "ano": 1988,
           "artistas": ["Franco de Vita"],
           "generos": ["Pop Rock", "Balada"],
@@ -893,7 +893,7 @@
         },
         {
           "nome": "The New Sound of The Venezuelan Gozadera",
-          "capa": "../img/países/Venezuela/The New Sound of The Venezuelan Gozadera.jpg",
+          "capa": "img/países/Venezuela/The New Sound of The Venezuelan Gozadera.jpg",
           "ano": 1998,
           "artistas": ["Los Amigos Invisibles"],
           "generos": ["Funk", "Acid Jazz", "Disco"],
@@ -906,7 +906,7 @@
         },
         {
           "nome": "Será",
-          "capa": "../img/países/Venezuela/Será.jpg",
+          "capa": "img/países/Venezuela/Será.jpg",
           "ano": 2013,
           "artistas": ["La Vida Bohème"],
           "generos": ["Indie Rock", "Alternative Rock"],
@@ -919,7 +919,7 @@
         },
         {
           "nome": "Harakiri City",
-          "capa": "../img/países/Venezuela/Harakiri City.jpg",
+          "capa": "img/países/Venezuela/Harakiri City.jpg",
           "ano": 1996,
           "artistas": ["Caramelos de Cianuro"],
           "generos": ["Rock Alternativo", "Pop Rock"],
@@ -932,7 +932,7 @@
         },
         {
           "nome": "Pajarillo Verde",
-          "capa": "../img/países/Venezuela/Pajarillo Verde.jpg",
+          "capa": "img/países/Venezuela/Pajarillo Verde.jpg",
           "ano": 1981,
           "artistas": ["Cecilia Todd"],
           "generos": ["Folclore Venezuelano"],
@@ -950,7 +950,7 @@
       "albuns": [
         {
           "nome": "Voice of the Xtabay",
-          "capa": "../img/países/Peru/Voice of the Xtabay.jpg",
+          "capa": "img/países/Peru/Voice of the Xtabay.jpg",
           "ano": 1950,
           "artistas": ["Yma Sumac"],
           "generos": ["Exotica", "World Music"],
@@ -963,7 +963,7 @@
         },
         {
           "nome": "Los Destellos",
-          "capa": "../img/países/Peru/Los Destellos.jpg",
+          "capa": "img/países/Peru/Los Destellos.jpg",
           "ano": 1968,
           "artistas": ["Los Destellos"],
           "generos": ["Cumbia Peruana", "Chicha"],
@@ -976,7 +976,7 @@
         },
         {
           "nome": "Tarimba Negra",
-          "capa": "../img/países/Peru/Tarimba Negra.jpg",
+          "capa": "img/países/Peru/Tarimba Negra.jpg",
           "ano": 1978,
           "artistas": ["Chabuca Granda"],
           "generos": ["Criollo", "Vals Peruano"],
@@ -989,7 +989,7 @@
         },
         {
           "nome": "Fuera de la ciudad",
-          "capa": "../img/países/Peru/Fuera de la ciudad.jpg",
+          "capa": "img/países/Peru/Fuera de la ciudad.jpg",
           "ano": 1973,
           "artistas": ["El Polen"],
           "generos": ["Folk Rock", "Andino"],
@@ -1002,7 +1002,7 @@
         },
         {
           "nome": "Palabras Urgentes",
-          "capa": "../img/países/Peru/Palabras Urgentes.jpg",
+          "capa": "img/países/Peru/Palabras Urgentes.jpg",
           "ano": 2021,
           "artistas": ["Susana Baca"],
           "generos": ["Afro-Peruano", "World Music"],
@@ -1015,7 +1015,7 @@
         },
         {
           "nome": "Primera Dosis",
-          "capa": "../img/países/Peru/Primera Dosis.jpg",
+          "capa": "img/países/Peru/Primera Dosis.jpg",
           "ano": 1985,
           "artistas": ["Narcosis"],
           "generos": ["Punk Rock"],
@@ -1028,7 +1028,7 @@
         },
         {
           "nome": "Los Charapas de Oro",
-          "capa": "../img/países/Peru/Los Charapas de Oro.jpg",
+          "capa": "img/países/Peru/Los Charapas de Oro.jpg",
           "ano": 1974,
           "artistas": ["Los Mirlos"],
           "generos": ["Cumbia Amazónica", "Chicha"],
@@ -1041,7 +1041,7 @@
         },
         {
           "nome": "Los días y las sombras",
-          "capa": "../img/países/Peru/Los días y las sombras.jpg",
+          "capa": "img/países/Peru/Los días y las sombras.jpg",
           "ano": 1998,
           "artistas": ["Voz Propia"],
           "generos": ["Post-Punk", "Rock Alternativo"],
@@ -1054,7 +1054,7 @@
         },
         {
           "nome": "Los sueños mueren primero",
-          "capa": "../img/países/Peru/Los sueños mueren primero.jpg",
+          "capa": "img/países/Peru/Los sueños mueren primero.jpg",
           "ano": 1990,
           "artistas": ["Lima 13"],
           "generos": ["Post-Punk", "New Wave"],
@@ -1067,7 +1067,7 @@
         },
         {
           "nome": "Primitivo",
-          "capa": "../img/países/Peru/Primitivo.jpg",
+          "capa": "img/países/Peru/Primitivo.jpg",
           "ano": 2015,
           "artistas": ["Miguel Flores"],
           "generos": ["Experimental", "Folk Andino"],
@@ -1085,7 +1085,7 @@
       "albuns": [
         {
           "nome": "Harpa Paraguaya en Hi-Fi",
-          "capa": "../img/países/Paraguai/Harpa Paraguaya en Hi-Fi.jpg",
+          "capa": "img/países/Paraguai/Harpa Paraguaya en Hi-Fi.jpg",
           "ano": 1966,
           "artistas": ["Luis Bordón"],
           "generos": ["Folclore Paraguayo", "Harpa"],
@@ -1098,7 +1098,7 @@
         },
         {
           "nome": "Obras maestras de la guarania Vol. III",
-          "capa": "../img/países/Paraguai/Obras maestras de la guarania Vol. III.png",
+          "capa": "img/países/Paraguai/Obras maestras de la guarania Vol. III.png",
           "ano": 2009,
           "artistas": ["José Asunción Flores"],
           "generos": ["Guarania"],
@@ -1111,7 +1111,7 @@
         },
         {
           "nome": "Aguije",
-          "capa": "../img/países/Paraguai/Aguije.jpg",
+          "capa": "img/países/Paraguai/Aguije.jpg",
           "ano": 2018,
           "artistas": ["Tierra Adentro"],
           "generos": ["Pop", "Folclore Paraguayo"],
@@ -1124,7 +1124,7 @@
         },
         {
           "nome": "La Bamba",
-          "capa": "../img/países/Paraguai/Los Diablos del Paraguay.jpg",
+          "capa": "img/países/Paraguai/Los Diablos del Paraguay.jpg",
           "ano": 1965,
           "artistas": ["Los Diablos del Paraguay"],
           "generos": ["Folclore", "Popular"],
@@ -1137,7 +1137,7 @@
         },
         {
           "nome": "Legado",
-          "capa": "../img/países/Paraguai/Legado.jpg",
+          "capa": "img/países/Paraguai/Legado.jpg",
           "ano": 2022,
           "artistas": ["Berta Rojas"],
           "generos": ["Clássico", "Guitarra"],
@@ -1150,7 +1150,7 @@
         },
         {
           "nome": "Salten, Canten, Griten, Bailen",
-          "capa": "../img/países/Paraguai/Salten, Canten, Griten, Bailen.png",
+          "capa": "img/países/Paraguai/Salten, Canten, Griten, Bailen.png",
           "ano": 2017,
           "artistas": ["Néstor Ló y Los Caminantes"],
           "generos": ["Rock", "Folclore"],
@@ -1163,7 +1163,7 @@
         },
         {
           "nome": "Guarani Cool",
-          "capa": "../img/países/Paraguai/Guarani Cool.jpg",
+          "capa": "img/países/Paraguai/Guarani Cool.jpg",
           "ano": 2008,
           "artistas": ["Kchiporros"],
           "generos": ["Pop Rock", "Reggae", "Ska"],
@@ -1176,7 +1176,7 @@
         },
         {
           "nome": "Guantanamera",
-          "capa": "../img/países/Paraguai/Guantanamera.jpg",
+          "capa": "img/países/Paraguai/Guantanamera.jpg",
           "ano": 1963,
           "artistas": ["Luis Alberto del Paraná y Los Paraguayos"],
           "generos": ["Folclore", "Popular"],
@@ -1189,7 +1189,7 @@
         },
         {
           "nome": "Palavras de Amor",
-          "capa": "../img/países/Paraguai/Palavras de Amor.jpg",
+          "capa": "img/países/Paraguai/Palavras de Amor.jpg",
           "ano": 1976,
           "artistas": ["Perla"],
           "generos": ["Balada", "Pop"],
@@ -1202,7 +1202,7 @@
         },
         {
           "nome": "Impulsivamente",
-          "capa": "../img/países/Paraguai/Impulsivamente.jpg",
+          "capa": "img/países/Paraguai/Impulsivamente.jpg",
           "ano": 2005,
           "artistas": ["Paiko"],
           "generos": ["Rock Alternativo", "Pop Rock"],
@@ -1220,7 +1220,7 @@
       "albuns": [
         {
           "nome": "Onafhankelijkheid (Srefidensi) Suriname",
-          "capa": "../img/países/Suriname/Onafhankelijkheid Srefidensi Suriname.webp",
+          "capa": "img/países/Suriname/Onafhankelijkheid Srefidensi Suriname.webp",
           "ano": 1975,
           "artistas": ["The Mighty Botai"],
           "generos": ["Kaseko", "Folk"],
@@ -1233,7 +1233,7 @@
         },
         {
           "nome": "Wasmasjien",
-          "capa": "../img/países/Suriname/Wasmasjien.png",
+          "capa": "img/países/Suriname/Wasmasjien.png",
           "ano": 1985,
           "artistas": ["Trafassi"],
           "generos": ["Kaseko", "Salsa", "Soul"],
@@ -1246,7 +1246,7 @@
         },
         {
           "nome": "King of Kasèko",
-          "capa": "../img/países/Suriname/King of Kasèko.webp",
+          "capa": "img/países/Suriname/King of Kasèko.webp",
           "ano": 1974,
           "artistas": ["Lieve Hugo"],
           "generos": ["Kaseko"],
@@ -1259,7 +1259,7 @@
         },
         {
           "nome": "Let's Sing & Dance",
-          "capa": "../img/países/Suriname/Let's Sing & Dance.jpg",
+          "capa": "img/países/Suriname/Let's Sing & Dance.jpg",
           "ano": 1968,
           "artistas": ["Dropati"],
           "generos": ["Chutney", "Hindustani Folk"],
@@ -1272,7 +1272,7 @@
         },
         {
           "nome": "Iwan and Friends",
-          "capa": "../img/países/Suriname/Iwan and friends.png",
+          "capa": "img/países/Suriname/Iwan and friends.png",
           "ano": 1983,
           "artistas": ["Iwan Esseboom"],
           "generos": ["Kaseko", "Kawina"],
@@ -1285,7 +1285,7 @@
         },
         {
           "nome": "The King of Suriname",
-          "capa": "../img/países/Suriname/The King of Suriname.png",
+          "capa": "img/países/Suriname/The King of Suriname.png",
           "ano": 1976,
           "artistas": ["Ramdew Chaitoe"],
           "generos": ["Baithak Gana", "Hindustani"],
@@ -1298,7 +1298,7 @@
         },
         {
           "nome": "Surinam! Boogie & Disco Funk From The Surinamese Dance Floors 76'–83'",
-          "capa": "../img/países/Suriname/Surinam Boogie & Disco Funk From The Surinamese Dance Floors 76'–83'.jpg",
+          "capa": "img/países/Suriname/Surinam Boogie & Disco Funk From The Surinamese Dance Floors 76'–83'.jpg",
           "ano": 2012,
           "artistas": ["Alwin Reingoud","Erwin Bouterse & The Group Roetoe","Solat","Billy Jones","Sumy","Thunderstorm","Usje Sukatma"],
           "generos": ["Funk", "Disco"],
@@ -1311,7 +1311,7 @@
         },
         {
           "nome": "Boeke",
-          "capa": "../img/países/Suriname/Boeke.jpg",
+          "capa": "img/países/Suriname/Boeke.jpg",
           "ano": 2005,
           "artistas": ["Aptijt","Dj Dunil"],
           "generos": ["Kaseko", "Pop"],
@@ -1324,7 +1324,7 @@
         },
         {
           "nome": "Love & Kawina",
-          "capa": "../img/países/Suriname/Love & Kawina.jpg",
+          "capa": "img/países/Suriname/Love & Kawina.jpg",
           "ano": 2017,
           "artistas": ["La Rouge"],
           "generos": ["Kawina", "Afro-Surinamesa"],
@@ -1337,7 +1337,7 @@
         },
         {
           "nome": "Tuintje In Mijn Hart",
-          "capa": "../img/países/Suriname/Tuintje In Mijn Hart.jpg",
+          "capa": "img/países/Suriname/Tuintje In Mijn Hart.jpg",
           "ano": 2011,
           "artistas": ["Damaru"],
           "generos": ["Reggae", "Soca", "Kaseko"],
@@ -1355,7 +1355,7 @@
       "albuns": [
         {
           "nome": "Killer on the Rampage",
-          "capa": "../img/países/Guiana/Killer on the Rampage.jpg",
+          "capa": "img/países/Guiana/Killer on the Rampage.jpg",
           "ano": 1982,
           "artistas": ["Eddy Grant"],
           "generos": ["Reggae-Pop", "Funk", "Rock"],
@@ -1368,7 +1368,7 @@
         },
         {
           "nome": "Traditional African Ritual Music of Guyana",
-          "capa": "../img/países/Guiana/Traditional African Ritual Music of Guyana.jpg",
+          "capa": "img/países/Guiana/Traditional African Ritual Music of Guyana.jpg",
           "ano": 1982,
           "artistas": ["Caterine Skeet","Margo Johnson","Barbara Pilgrim","Elder Alphonso Gray","Hubert Johnson"],
           "generos": ["Música Ritual", "Afro-Guyanesa"],
@@ -1381,7 +1381,7 @@
         },
         {
           "nome": "Johnny Braff Sings For Independence",
-          "capa": "../img/países/Guiana/Johnny Braff Sings For Independence.png",
+          "capa": "img/países/Guiana/Johnny Braff Sings For Independence.png",
           "ano": 1966,
           "artistas": ["Johnny Braff"],
           "generos": ["Soul", "R&B"],
@@ -1394,7 +1394,7 @@
         },
         {
           "nome": "Black Liberation Dub",
-          "capa": "../img/países/Guiana/Black Liberation Dub.png",
+          "capa": "img/países/Guiana/Black Liberation Dub.png",
           "ano": 1994,
           "artistas": ["Mad Professor"],
           "generos": ["Dub", "Reggae"],
@@ -1407,7 +1407,7 @@
         },
         {
           "nome": "Music of the Coastal Amerindians of Guyana",
-          "capa": "../img/países/Guiana/Music of the Coastal Amerindians of Guyana.jpg",
+          "capa": "img/países/Guiana/Music of the Coastal Amerindians of Guyana.jpg",
           "ano": 1982,
           "artistas": ["Joseph Miguel","Rosa Miguel","Claudia Coteman","Philomena Williams","William Smith","Kalina (Carib) woman","Harry Peneux","Lokono-Arawak man","Carl Peneux","Clyde Copin","Donald Herman","Uncle Joe Hendricks","Charles George","Charles Lowe","Rudolph Williams","Carl Abrams","Warao man","Orealla","Warao man with banjo","Genevieve Quailo","Nathan France"],
           "generos": ["Música Tradicional", "Ameríndia"],
@@ -1420,7 +1420,7 @@
         },
         {
           "nome": "Changes",
-          "capa": "../img/países/Guiana/Changes.jpg",
+          "capa": "img/países/Guiana/Changes.jpg",
           "ano": 2009,
           "artistas": ["Charmaine Blackman"],
           "generos": ["Rock", "Reggae", "Funk"],
@@ -1433,7 +1433,7 @@
         },
         {
           "nome": "Stupidy",
-          "capa": "../img/países/Guiana/Stupidy.png",
+          "capa": "img/países/Guiana/Stupidy.png",
           "ano": 2004,
           "artistas": ["El Sadiek & De Sugar Cake Girls"],
           "generos": ["Chutney", "Soca"],
@@ -1446,7 +1446,7 @@
         },
         {
           "nome": "Rep 592 Compilation Album Vol.1",
-          "capa": "../img/países/Guiana/Rep 592 Compilation Album Vol.1.webp",
+          "capa": "img/países/Guiana/Rep 592 Compilation Album Vol.1.webp",
           "ano": 2016,
           "artistas": ["Fojo","Remmington","Lil Clowin","Little J","Nesta Nelson","Racs","Davy Marley","Dead-Ly","Adrian Dutchin"],
           "generos": ["Hip-Hop", "Dancehall", "Soca"],
@@ -1459,7 +1459,7 @@
         },
         {
           "nome": "Far from Reality",
-          "capa": "../img/países/Guiana/Far from Reality.jpg",
+          "capa": "img/países/Guiana/Far from Reality.jpg",
           "ano": 2006,
           "artistas": ["Natural Black"],
           "generos": ["Roots Reggae"],
@@ -1472,7 +1472,7 @@
         },
         {
           "nome": "Guyana Baboo And Pack Up",
-          "capa": "../img/países/Guiana/Guyana Baboo And Pack Up.png",
+          "capa": "img/países/Guiana/Guyana Baboo And Pack Up.png",
           "ano": 1994,
           "artistas": ["Terry Gajraj","David Ramoutar"],
           "generos": ["Chutney Soca"],
@@ -1490,7 +1490,7 @@
       "albuns": [
         {
           "nome": "Reminiscencias y otros valses inolvidables",
-          "capa": "../img/países/Equador/Reminiscencias y otros valses inolvidables.png",
+          "capa": "img/países/Equador/Reminiscencias y otros valses inolvidables.png",
           "ano": 1968,
           "artistas": ["Julio Jaramillo"],
           "generos": ["Bolero", "Vals", "Pasillo"],
@@ -1503,7 +1503,7 @@
         },
         {
           "nome": "Marimba Magia",
-          "capa": "../img/países/Equador/Marimba Magia.jpg",
+          "capa": "img/países/Equador/Marimba Magia.jpg",
           "ano": 2000,
           "artistas": ["Papá Roncón & Katanga"],
           "generos": ["Marimba", "Afro-Equatoriano"],
@@ -1516,7 +1516,7 @@
         },
         {
           "nome": "Sal y Mileto",
-          "capa": "../img/países/Equador/Sal y Mileto.png",
+          "capa": "img/países/Equador/Sal y Mileto.png",
           "ano": 1999,
           "artistas": ["Sal y Mileto"],
           "generos": ["Rock Experimental", "Alternativo"],
@@ -1529,7 +1529,7 @@
         },
         {
           "nome": "Disco de Oro de Los Brillantes",
-          "capa": "../img/países/Equador/Disco de Oro de Los Brillantes.png",
+          "capa": "img/países/Equador/Disco de Oro de Los Brillantes.png",
           "ano": 1967,
           "artistas": ["Los Brillantes"],
           "generos": ["Cumbia", "Pasillo"],
@@ -1542,7 +1542,7 @@
         },
         {
           "nome": "Jarishimi Kichuapi",
-          "capa": "../img/países/Equador/Jarishimi Kichuapi.png",
+          "capa": "img/países/Equador/Jarishimi Kichuapi.png",
           "ano": 1985,
           "artistas": ["Enrique Males"],
           "generos": ["Andino", "Folclore Indígena"],
@@ -1555,7 +1555,7 @@
         },
         {
           "nome": "Prender El Alma",
-          "capa": "../img/países/Equador/Prender El Alma.jpg",
+          "capa": "img/países/Equador/Prender El Alma.jpg",
           "ano": 2015,
           "artistas": ["Nicola Cruz"],
           "generos": ["Música Eletrônica", "Andean Fusion"],
@@ -1568,7 +1568,7 @@
         },
         {
           "nome": "1",
-          "capa": "../img/países/Equador/1.png",
+          "capa": "img/países/Equador/1.png",
           "ano": 1977,
           "artistas": ["Ñanda Mañachi"],
           "generos": ["Andino", "Folclore"],
@@ -1581,7 +1581,7 @@
         },
         {
           "nome": "Vota por Mí",
-          "capa": "../img/países/Equador/Vota por Mí.png",
+          "capa": "img/países/Equador/Vota por Mí.png",
           "ano": 1992,
           "artistas": ["Mortal Decisión"],
           "generos": ["Rock", "Metal"],
@@ -1594,7 +1594,7 @@
         },
         {
           "nome": "La Quinceañera",
-          "capa": "../img/países/Equador/La Quinceañera.jpg",
+          "capa": "img/países/Equador/La Quinceañera.jpg",
           "ano": 2006,
           "artistas": ["Mirella Cesa"],
           "generos": ["Andipop", "Pop"],
@@ -1607,7 +1607,7 @@
         },
         {
           "nome": "La Toquilla",
-          "capa": "../img/países/Equador/La Toquilla.jpg",
+          "capa": "img/países/Equador/La Toquilla.jpg",
           "ano": 2019,
           "artistas": ["La Toquilla"],
           "generos": ["Pop", "Andino"],
@@ -1625,7 +1625,7 @@
       "albuns": [
         {
           "nome": "La bal masqué",
-          "capa": "../img/países/Guiana Francesa/La bal masqué.jpg",
+          "capa": "img/países/Guiana Francesa/La bal masqué.jpg",
           "ano": 1984,
           "artistas": ["La Compagnie Créole"],
           "generos": ["Zouk", "Pop Caribenho"],
@@ -1638,7 +1638,7 @@
         },
         {
           "nome": "Salambô",
-          "capa": "../img/países/Guiana Francesa/Salambô.webp",
+          "capa": "img/países/Guiana Francesa/Salambô.webp",
           "ano": 1990,
           "artistas": ["Chris Combette"],
           "generos": ["Reggae", "Chanson", "Caribenho"],
@@ -1651,7 +1651,7 @@
         },
         {
           "nome": "Mèci",
-          "capa": "../img/países/Guiana Francesa/Mèci.jpg",
+          "capa": "img/países/Guiana Francesa/Mèci.jpg",
           "ano": 1992,
           "artistas": ["Edith Lefel"],
           "generos": ["Zouk", "Chanson"],
@@ -1664,7 +1664,7 @@
         },
         {
           "nome": "Music of the Haut Oyapok: Oyampi and Emerillon Indian Tribes, French Guiana, South América",
-          "capa": "../img/países/Guiana Francesa/Music of the Haut Oyapok.jpg",
+          "capa": "img/países/Guiana Francesa/Music of the Haut Oyapok.jpg",
           "ano": 1970,
           "artistas": ["Captain Monpera","Wayampi boy","Camopi","Wayampi musicians","Trois Sauts","Kwi-o-li"],
           "generos": ["Música Tradicional", "Ameríndia"],
@@ -1677,7 +1677,7 @@
         },
         {
           "nome": "Poesie de la Negritude",
-          "capa": "../img/países/Guiana Francesa/Poesie de la Negritude.jpg",
+          "capa": "img/países/Guiana Francesa/Poesie de la Negritude.jpg",
           "ano": 1967,
           "artistas": ["Léon-Gontran Damas"],
           "generos": ["Poesia Recitada", "Chanson"],
@@ -1690,7 +1690,7 @@
         },
         {
           "nome": "Traffic Inter",
-          "capa": "../img/países/Guiana Francesa/Traffic Inter.jpg",
+          "capa": "img/países/Guiana Francesa/Traffic Inter.jpg",
           "ano": 2022,
           "artistas": ["Jahyanai"],
           "generos": ["Dancehall", "Trap", "Afrobeat"],
@@ -1703,7 +1703,7 @@
         },
         {
           "nome": "Wayãpi Guyane",
-          "capa": "../img/países/Guiana Francesa/Wayãpi Guyane.jpg",
+          "capa": "img/países/Guiana Francesa/Wayãpi Guyane.jpg",
           "ano": 1980,
           "artistas": ["Wayãpi", "Jean-Michel Beaudet"],
           "generos": ["Música Tradicional", "Ameríndia"],
@@ -1716,7 +1716,7 @@
         },
         {
           "nome": "Vous les hommes",
-          "capa": "../img/países/Guiana Francesa/Vous les hommes.jpg",
+          "capa": "img/países/Guiana Francesa/Vous les hommes.jpg",
           "ano": 2007,
           "artistas": ["Fanny J"],
           "generos": ["Zouk", "R&B"],
@@ -1729,7 +1729,7 @@
         },
         {
           "nome": "Dibout",
-          "capa": "../img/países/Guiana Francesa/Dibout.jpg",
+          "capa": "img/países/Guiana Francesa/Dibout.jpg",
           "ano": 2022,
           "artistas": ["Saina Manotte"],
           "generos": ["Zouk", "Pop Caribenho"],
@@ -1742,7 +1742,7 @@
         },
         {
           "nome": "Nèg Mawon de Guyane (Musique du monde / Music from the World)",
-          "capa": "../img/países/Guiana Francesa/Nèg Mawon de Guyane.jpg",
+          "capa": "img/países/Guiana Francesa/Nèg Mawon de Guyane.jpg",
           "ano": 1995,
           "artistas": ["Les Bushinengé","Dyalusu Uman","Angi Fusi","Dyalusu Uman","Angi Fushi","Wan Ton Mélody","Big Control","Gadu Akamia","Kapiten Marcel","Papa Annéli","Haïtanga De Kourou","Norina Sondreyou","Dyalusu Uman","Bigi Ting","System Tranga Noto Maripasoula"],
           "generos": ["Afro-Guyanês", "Tradicional"],
