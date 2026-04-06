@@ -18,7 +18,7 @@
         },
         {
           "nome": "Tropicália ou Panis et Circencis",
-          "capa": "../img/países/Brasil/tropicalialp.webp",
+          "capa": "img/países/Brasil/tropicalialp.webp",
           "ano": 1968,
           "artistas": ["Caetano Veloso", "Gilberto Gil", "Gal Costa", "Nara Leão", "Os Mutantes", "Tom Zé"],
           "generos": ["MPB", "Psicodelia"],
@@ -31,7 +31,7 @@
         },
         {
           "nome": "A Tábua de Esmeralda",
-          "capa": "../img/países/Brasil/a-tabua-da-esmeralda.webp",
+          "capa": "img/países/Brasil/a-tabua-da-esmeralda.webp",
           "ano": 1974,
           "artistas": ["Jorge Ben Jor"],
           "generos": ["Samba", "Samba Rock", "MPB"],
