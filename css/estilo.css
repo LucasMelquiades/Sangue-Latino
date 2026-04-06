@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Stardos+Stencil:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Stardos+Stencil:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #25530E;
+    --secondary-color: #D6993E;
+    --thirdy-color: #1E2763;
+    --forty-color: #CD4B36;
+    --font-primary-color: #FFFFFF;
+    --font-secondary-color: #F51313;
+    --font-thirdy-color: #25530E;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+    list-style: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--primary-color) !important;
+}
+
+nav {
+    padding-bottom: 5rem !important;
+    padding-top: 2rem !important;
+}
+
+li.nav-item {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+a.nav-link {
+    color: var(--font-primary-color) !important;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    text-align: justify;
+    background-color: var(--primary-color);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: var(--font-primary-color);
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+     color: var(--font-primary-color);
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.mobile {
+    display: none;
+}
+
+.menu-mobile {
+    font-size: 1.8rem;
+    color: var(--font-primary-color);
+}
+
+.imagem-texto {
+    position: relative; 
+    display: inline-block;
+}
+
+.imagem-texto img {
+    display: block;
+    width: 550px;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 0.1px 0.1px black; 
+}
+
+.sangue h1 {
+    font-family: "Stardos Stencil", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--font-secondary-color);
+    font-size: 7.5rem;
+}
+
+.bandeirinhas-slider {
+    padding-top: 7rem;
+    padding-bottom: 12rem;
+    overflow: hidden;
+    width: 100%;
+}
+
+.bandeirinhas-track {
+    display: flex;
+    width: max-content;
+    animation: scroll 20s linear infinite;
+}
+
+.bandeirinhas-track img {
+    height: 80px; 
+    margin: 0 10px;
+}
+
+@keyframes scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
+.card {
+    border-radius: 22px;
+}
+
+#disco .card {
+    background-color: var(--secondary-color);
+}
+
+#disco .card h2, #consulta .card h2, #sobre .card h2 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    padding-top: 2rem;
+    color: var(--font-primary-color);
+    font-size: 4.5rem;
+    font-weight: bolder;
+}
+
+#frase-definicao {
+    font-style: italic;
+}
+
+#disco .card h5, #consulta .card h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    padding-top: 2rem;
+    color: var(--font-primary-color);
+    font-size: 1.2rem;
+}
+
+.vinil {
+    position: relative;
+    left: 8%;
+    width: 370px;
+    animation: girar 5s linear infinite;
+}
+
+@keyframes girar {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.capa {
+    width: 370px;
+    position: absolute;
+    left: 22%;
+}
+
+#disco .card p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 2rem;
+    color: var(--font-primary-color);
+    font-size: 1rem;
+}
+
+.icone-play {
+    width: 3.7rem;
+}
+
+.espaco {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.espaco img {
+    width: 155px;
+}
+
+#consulta .card {
+    background-color: var(--thirdy-color);
+}
+
+#consulta .card h6{
+    color: var(--font-primary-color);
+}
+
+.maracas {
+    display: inline-block;
+    animation: balanco 1s ease-in-out infinite;
+    transform-origin: bottom center; 
+}
+
+@keyframes balanco {
+    0%   { transform: rotate(-10deg); }
+    50%  { transform: rotate(10deg); }
+    100% { transform: rotate(-10deg); }
+}
+
+.tab-pane h4 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.list-group-item.active, .list-group-item {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    z-index: 2;
+    font-size: 1.2rem;
+    color: var(--font-primary-color);
+    background-color: var(--thirdy-color);
+    border-color: var(--thirdy-color);
+}
+
+.album-card h6 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tambor {
+    display: inline-block;
+    width: 150px;
+    animation: vibrar 0.3s linear infinite;
+}
+
+@keyframes vibrar {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-3px); }
+    50% { transform: translateX(3px); }
+    75% { transform: translateX(-3px); }
+    100% { transform: translateX(0); }
+}
+
+
+#sobre .card {
+    background-color: var(--font-secondary-color);
+}
+
+#sobre .card p{
+    color: var(--font-primary-color);
+    font-size: 1.3rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#sobre .card a {
+    text-decoration: none;
+    color: var(--font-primary-color);
+}
+
+.perfil {
+    width: 220px;
+}
+
+.viola {
+    display: inline-block;
+    width: 150px;
+    animation: balanco-viola 2s ease-in-out infinite;
+    transform-origin: center top; 
+}
+
+@keyframes balanco-viola {
+    0%   { transform: rotate(-3deg); }
+    50%  { transform: rotate(3deg); }
+    100% { transform: rotate(-3deg); }
+}
+
+@media screen and (max-width: 630px) {
+    .mobile {
+        display: contents;
+    }
+    .desktop {
+        display: none;
+    }
+    .sangue h1 {
+        font-size: 4.5rem;
+    }
+    .imagem-texto img {
+        width: 310px;
+    }
+    .pt-7 {
+        padding-top: 5rem;
+    }
+    #disco .card h2, #consulta .card h2, #sobre .card h2 {
+        font-size: 3.5rem;
+    }
+
+    .vinil, .capa {
+        width: 250px;
+    }
+    .vinil {
+        left: 4%;
+    }
+    .capa {
+        left: 6%;
+    }
+    .bandeirinhas-slider {
+        padding-bottom: 8rem;
+    }
+    #disco .card h5, #consulta .card h5 {
+        font-size: 1rem;
+    }
+    .list-group {
+        max-height: 300px;
+        overflow-y: auto;     
+        display: block;
+    }
+    #sobre .card p {
+        font-size: 1rem;
+    }
+    .bandeirinhas-track img {
+        height: 55px;
+    }
+}

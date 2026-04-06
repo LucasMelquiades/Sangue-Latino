@@ -1,0 +1,1759 @@
+{
+  "discos": [
+    {
+      "pais": "Brasil",
+      "albuns": [
+        {
+          "nome": "Clube da Esquina",
+          "capa": "../img/países/Brasil/Clube da Esquina.jpg",
+          "ano": 1972,
+          "artistas": ["Milton Nascimento", "Lô Borges"],
+          "generos": ["MPB", "Rock", "Jazz"],
+          "frase_definicao": "Um encontro musical que redefiniu a música brasileira.",
+          "contexto": "Lançado em plena ditadura militar, o álbum trouxe uma sonoridade inovadora misturando influências internacionais com raízes brasileiras.",
+          "musica_destaque": {
+            "faixa": "Cais",
+            "link": "https://open.spotify.com/intl-pt/track/1UvOFJFyfsm2OJkE3s48fs?si=ec29af930b9e42aa"
+          }
+        },
+        {
+          "nome": "Tropicália ou Panis et Circencis",
+          "capa": "../img/países/Brasil/tropicalialp.webp",
+          "ano": 1968,
+          "artistas": ["Caetano Veloso", "Gilberto Gil", "Gal Costa", "Nara Leão", "Os Mutantes", "Tom Zé"],
+          "generos": ["MPB", "Psicodelia"],
+          "frase_definicao": "Manifesto sonoro da Tropicália.",
+          "contexto": "O disco coletivo reuniu os principais nomes do movimento tropicalista, misturando música popular brasileira com rock e vanguardas internacionais.",
+          "musica_destaque": {
+            "faixa": "Panis et Circencis",
+            "link": "https://open.spotify.com/intl-pt/track/0WO2ra1zNTLgQNAnj3A6o6?si=be4c3686965c4051"
+          }
+        },
+        {
+          "nome": "A Tábua de Esmeralda",
+          "capa": "../img/países/Brasil/a-tabua-da-esmeralda.webp",
+          "ano": 1974,
+          "artistas": ["Jorge Ben Jor"],
+          "generos": ["Samba", "Samba Rock", "MPB"],
+          "frase_definicao": "Obra-prima mística e filosófica de Jorge Ben Jor.",
+          "contexto": "Lançado em plena ditadura militar, o álbum mistura samba com referências ao esoterismo, alquimia e filosofia, consolidando Jorge Ben Jor como um dos grandes inovadores da música brasileira.",
+          "musica_destaque": {
+            "faixa": "Menina Mulher da Pele Preta",
+            "link": "https://open.spotify.com/intl-pt/track/5HpURubJUz2gysQiAkle9I?si=5b3ce933050341cc"
+          }
+        },
+        {
+          "nome": "De Pé no Chão",
+          "capa": "../img/países/Brasil/de pé no chão.webp",
+          "ano": 1978,
+          "artistas": ["Beth Carvalho"],
+          "generos": ["Samba", "MPB"],
+          "frase_definicao": "Disco que firmou Beth Carvalho como a Madrinha do Samba.",
+          "contexto": "O álbum foi decisivo para popularizar o samba de raiz e abrir espaço para novos compositores como Jorge Aragão, Nei Lopes e Wilson Moreira. Beth Carvalho se tornou referência ao dar voz às rodas de samba e ao movimento do pagode carioca.",
+          "musica_destaque": {
+            "faixa": "Vou Festejar",
+            "link": "https://open.spotify.com/intl-pt/track/54JLlb23AnzXErLRSNVIUn?si=2c55e664bd654e39"
+          }
+        },
+        {
+          "nome": "Sobrevivendo no Inferno",
+          "capa": "../img/países/Brasil/Sobrevivendo no Inferno.jpg",
+          "ano": 1997,
+          "artistas": ["Racionais MC's"],
+          "generos": ["Hip-Hop", "Rap", "Hip-Hop Político"],
+          "frase_definicao": "Obra-prima do rap nacional que retrata a realidade das periferias brasileiras.",
+          "contexto": "Lançado em 1997, o álbum se tornou um marco da música brasileira ao denunciar a violência policial, o racismo e a desigualdade social. Com letras densas e narrativas urbanas, 'Sobrevivendo no Inferno' é considerado um documento histórico da periferia paulistana e foi incluído como leitura obrigatória em vestibulares.",
+          "musica_destaque": {
+            "faixa": "Diário de um Detento",
+            "link": "https://open.spotify.com/intl-pt/track/7wglwZzZoWUr8sOECwpu6L?si=dd87258d937448bf"
+          }
+        },
+        {
+          "nome": "Claridade",
+          "capa": "../img/países/Brasil/Claridade.jpg",
+          "ano": 1975,
+          "artistas": ["Clara Nunes"],
+          "generos": ["Samba", "MPB"],
+          "frase_definicao": "Álbum que consolidou Clara Nunes como a grande voz feminina do samba.",
+          "contexto": "Lançado em 1975, 'Claridade' marcou a fase de maior sucesso da carreira de Clara Nunes. O disco trouxe arranjos sofisticados e repertório ligado às raízes afro-brasileiras, reforçando a presença feminina no samba e projetando Clara como ícone nacional.",
+          "musica_destaque": {
+            "faixa": "O Mar Serenou",
+            "link": "https://open.spotify.com/intl-pt/track/5hemN5gGcBNdkUOIbs3RVe?si=fc2650e12e634d13"
+          }
+        },
+        {
+          "nome": "Construção",
+          "capa": "../img/países/Brasil/Construção.jpg",
+          "ano": 1971,
+          "artistas": ["Chico Buarque"],
+          "generos": ["MPB", "Samba"],
+          "frase_definicao": "Um dos álbuns mais importantes da música brasileira, símbolo da resistência cultural contra a ditadura.",
+          "contexto": "Lançado em 1971, 'Construção' trouxe letras sofisticadas e críticas ao regime militar, como em 'Construção' e 'Cordão'. O disco consolidou Chico Buarque como um dos maiores compositores do Brasil, unindo poesia, política e música popular.",
+          "musica_destaque": {
+            "faixa": "Construção",
+            "link": "https://open.spotify.com/intl-pt/track/3FIuBxOxuQ6kYy8JO0gq2a?si=70b252b9293a437a"
+          }
+        },
+        {
+          "nome": "Roots",
+          "capa": "../img/países/Brasil/Roots.jpg",
+          "ano": 1996,
+          "artistas": ["Sepultura"],
+          "generos": ["Groove Metal", "Nu Metal", "Alternative Metal"],
+          "frase_definicao": "Álbum que revolucionou o metal ao incorporar ritmos e percussões brasileiras.",
+          "contexto": "Gravado nos EUA e lançado em 1996, 'Roots' marcou a fase mais internacional da banda. O disco misturou peso do metal com influências tribais e da cultura indígena brasileira, tornando-se referência mundial e um dos mais icônicos da carreira do Sepultura.",
+          "musica_destaque": {
+            "faixa": "Roots Bloody Roots",
+            "link": "https://open.spotify.com/intl-pt/track/6ursmCnbc9oDRGa2yHKkoZ?si=5a66c813e35f4128"
+          }
+        },
+        {
+          "nome": "Da Lama ao Caos",
+          "capa": "../img/países/Brasil/da lama ao caos.jpg",
+          "ano": 1994,
+          "artistas": ["Chico Science", "Nação Zumbi"],
+          "generos": ["Manguebeat", "Rock", "Funk", "Hip-Hop"],
+          "frase_definicao": "Primeiro grande manifesto do movimento manguebeat, unindo maracatu e música urbana.",
+          "contexto": "Lançado em 1994, 'Da Lama ao Caos' apresentou ao Brasil e ao mundo o manguebeat, movimento que misturava ritmos tradicionais de Pernambuco com rock, funk e hip-hop. Chico Science se tornou símbolo da inovação cultural nordestina.",
+          "musica_destaque": {
+            "faixa": "Da Lama ao Caos",
+            "link": "https://open.spotify.com/intl-pt/track/5G3DIojPwYLhkgem62QmFU?si=0feccf0e54314474"
+          }
+        },
+        {
+          "nome": "Boladona",
+          "capa": "../img/países/Brasil/Boladona.jpg",
+          "ano": 2004,
+          "artistas": ["Tati Quebra Barraco", "DJ Marlboro"],
+          "generos": ["Funk Carioca", "Música Eletrônica"],
+          "frase_definicao": "Álbum que levou o funk carioca às pistas e à televisão, tornando Tati Quebra Barraco ícone popular.",
+          "contexto": "Lançado em 2004, 'Boladona' misturou funk carioca com elementos da música eletrônica. A faixa-título ganhou enorme repercussão ao entrar na trilha sonora da novela 'América', consolidando Tati como uma das vozes mais marcantes do funk brasileiro.",
+          "musica_destaque": {
+            "faixa": "Boladona",
+            "link": "https://open.spotify.com/intl-pt/track/19ETbp46uzm9GEoyE12toT?si=411b1584eabd4818"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Colômbia",
+      "albuns": [
+        {
+          "nome": "Tesura",
+          "capa": "../img/países/Colombia/Tesura.jpg",
+          "ano": 1970,
+          "artistas": ["Fruko y sus Tesos"],
+          "generos": ["Salsa", "Guaguancó", "Música Tropical"],
+          "frase_definicao": "Primeiro álbum de Fruko y sus Tesos, marco inicial da salsa colombiana.",
+          "contexto": "Lançado em 1970, 'Tesura' foi o disco de estreia da banda liderada por Julio Ernesto Estrada, conhecido como Fruko. Inspirado pelo som de Willie Colón em Nova York, o álbum trouxe uma sonoridade crua e urbana que ajudou a consolidar a salsa na Colômbia.",
+          "musica_destaque": {
+            "faixa": "Tesura",
+            "link": "https://www.youtube.com/watch?v=HDfJaAAmOMk"
+          }
+        },
+        {
+          "nome": "Pies Descalzos",
+          "capa": "../img/países/Colombia/Pies Descalzos.jpg",
+          "ano": 1995,
+          "artistas": ["Shakira"],
+          "generos": ["Pop Rock", "Latin Rock", "Alternative Rock"],
+          "frase_definicao": "Álbum que lançou Shakira ao estrelato internacional.",
+          "contexto": "Lançado em 1995, 'Pies Descalzos' foi o terceiro álbum de Shakira e seu grande sucesso internacional. Com letras autorais e produção de Luis Fernando Ochoa, o disco trouxe hits como 'Estoy Aquí' e 'Antología', consolidando Shakira como estrela da música latina.",
+          "musica_destaque": {
+            "faixa": "Estoy Aquí",
+            "link": "https://open.spotify.com/intl-pt/track/4M1lEbqPzlEw1JYWB6aE7K?si=49fb110e562f4a55"
+          }
+        },
+        {
+          "nome": "La Gran Feria",
+          "capa": "../img/países/Colombia/La Gran Feria.jpg",
+          "ano": 1973,
+          "artistas": ["La Banda Nueva"],
+          "generos": ["Rock Progressivo", "Jazz-Rock", "Fusão"],
+          "frase_definicao": "Único álbum da Banda Nueva, marco do rock progressivo colombiano.",
+          "contexto": "Gravado em 1973, 'La Gran Feria' foi o único registro da Banda Nueva, formada em Bogotá por ex-integrantes de Los Flippers. O disco mistura rock progressivo com elementos de jazz e música latina, sendo considerado um testemunho da efervescência cultural da época.",
+          "musica_destaque": {
+            "faixa": "La Gran Feria",
+            "link": "https://www.youtube.com/watch?v=4T1DXjY3Hos"
+          }
+        },
+        {
+          "nome": "Psicodelicias",
+          "capa": "../img/países/Colombia/Psicodelicias.jpg",
+          "ano": 1967,
+          "artistas": ["The Flippers"],
+          "generos": ["Garage Rock", "Psychedelic Rock"],
+          "frase_definicao": "Um dos primeiros discos psicodélicos da Colômbia, referência do rock latino.",
+          "contexto": "Lançado em 1967, 'Psicodelicias' apresentou ao público colombiano uma fusão de rock psicodélico e garage, com versões de clássicos internacionais e composições próprias. O álbum é considerado peça fundamental da cena roqueira da década de 1960 na América Latina.",
+          "musica_destaque": {
+            "faixa": "La Carta",
+            "link": "https://open.spotify.com/intl-pt/track/5o0PuiuHVRHgM0LQuVXL3L?si=017f8ca169ce40b5"
+          }
+        },
+        {
+          "nome": "La Muerte...Un Compromiso De Todos",
+          "capa": "../img/países/Colombia/La muerte.jpg",
+          "ano": 1989,
+          "artistas": ["La Pestilencia"],
+          "generos": ["Hardcore Punk", "Metal"],
+          "frase_definicao": "Primeiro álbum da banda, marco do punk colombiano.",
+          "contexto": "Lançado em 1989, este disco apresentou La Pestilencia como pioneira do hardcore punk na Colômbia, trazendo letras de crítica social e política em plena época de violência urbana e instabilidade no país.",
+          "musica_destaque": {
+            "faixa": "Vive tu Vida",
+            "link": "https://youtu.be/30ehP32nhEA?si=vgHvxdA7ImL7Yb2M"
+          }
+        },
+        {
+          "nome": "Amanecer",
+          "capa": "../img/países/Colombia/Amanecer.webp",
+          "ano": 2015,
+          "artistas": ["Bomba Estéreo"],
+          "generos": ["Electro Tropical", "Cumbia", "Pop"],
+          "frase_definicao": "Álbum que levou Bomba Estéreo ao reconhecimento internacional.",
+          "contexto": "Com produção moderna e fusão de cumbia com música eletrônica, 'Amanecer' consolidou Bomba Estéreo como uma das bandas colombianas mais globais. O hit 'Soy Yo' virou hino de empoderamento e viralizou em campanhas e redes sociais.",
+          "musica_destaque": {
+            "faixa": "Soy Yo",
+            "link": "https://open.spotify.com/intl-pt/track/4Egb5xP6cniUx0kgZd5zLB?si=f4a991e565584c37"
+          }
+        },
+        {
+          "nome": "Cantos de Mi Tierra y de Mi Raza",
+          "capa": "../img/países/Colombia/Cantos de Mi Tierra y de Mi Raza.jpg",
+          "ano": 1975,
+          "artistas": ["Leonor González Mina"],
+          "generos": ["Folclore Colombiano", "Afro-Colombiano"],
+          "frase_definicao": "Álbum que celebra as raízes afro-colombianas.",
+          "contexto": "Leonor González Mina, conhecida como 'La Negra Grande de Colombia', lançou este disco para valorizar a cultura afro-colombiana e os ritmos tradicionais do Pacífico, tornando-se referência na preservação da identidade musical do país.",
+          "musica_destaque": {
+            "faixa": "Negro",
+            "link": "https://open.spotify.com/intl-pt/track/5L4MU6xPhqi9POPvco4zto?si=5432ed0226994546"
+          }
+        },
+        {
+          "nome": "Caribe Atómico",
+          "capa": "../img/países/Colombia/Caribe Atomico.jpg",
+          "ano": 1998,
+          "artistas": ["Aterciopelados"],
+          "generos": ["Rock Alternativo", "Electro Rock", "Latin Rock"],
+          "frase_definicao": "Álbum que misturou rock com música eletrônica e caribenha.",
+          "contexto": "Lançado em 1998, 'Caribe Atómico' marcou a experimentação sonora da banda, incorporando elementos eletrônicos ao rock alternativo. Foi indicado ao Grammy e consolidou Aterciopelados como uma das maiores bandas latino-americanas.",
+          "musica_destaque": {
+            "faixa": "Maligno",
+            "link": "https://open.spotify.com/intl-pt/track/12xZFzT1kYByFjXFYLIRkm?si=49814e1207bb4cf9"
+          }
+        },
+        {
+          "nome": "Un Día Normal",
+          "capa": "../img/países/Colombia/Un dia normal.jpg",
+          "ano": 2002,
+          "artistas": ["Juanes"],
+          "generos": ["Pop Rock", "Latin Rock"],
+          "frase_definicao": "Disco que consolidou Juanes como estrela internacional.",
+          "contexto": "Com sucessos como 'A Dios le Pido' e 'Es Por Ti', o álbum lançado em 2002 projetou Juanes para o cenário mundial, misturando rock com letras de esperança e amor, tornando-se um dos discos mais vendidos da música latina.",
+          "musica_destaque": {
+            "faixa": "Es por Ti",
+            "link": "https://open.spotify.com/intl-pt/track/3b1IQflSLrgzYQPGFzI9cl?si=676cead236204985"
+          }
+        },
+        {
+          "nome": "Vibras",
+          "capa": "../img/países/Colombia/Vibras.jpg",
+          "ano": 2018,
+          "artistas": ["J Balvin"],
+          "generos": ["Reggaeton", "Latin Pop", "Trap Latino"],
+          "frase_definicao": "Álbum que redefiniu o reggaeton para o público global.",
+          "contexto": "Lançado em 2018, 'Vibras' trouxe uma estética minimalista e colaborou com artistas como Willy William e Rosalía. O disco consolidou J Balvin como um dos maiores nomes do reggaeton moderno, expandindo o gênero para o mainstream internacional.",
+          "musica_destaque": {
+            "faixa": "Mi Gente",
+            "link": "https://open.spotify.com/intl-pt/track/7COfe3P7KgfwDwIRB8LIDw?si=a889b5314cde4d16"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Chile",
+      "albuns": [
+        {
+          "nome": "El Indio",
+          "capa": "../img/países/Chile/El indio.jpg",
+          "ano": 1975,
+          "artistas": ["Los Jaivas"],
+          "generos": ["Rock Progressivo", "Folk Rock", "Andino"],
+          "frase_definicao": "Álbum que misturou rock progressivo com música andina.",
+          "contexto": "Lançado em 1975, 'El Indio' consolidou Los Jaivas como uma das bandas mais inovadoras da América Latina, unindo instrumentos tradicionais andinos com rock progressivo.",
+          "musica_destaque": {
+            "faixa": "La Conquistada",
+            "link": "https://www.youtube.com/watch?v=vkfMySvJT7A"
+          }
+        },
+        {
+          "nome": "Las Últimas Composiciones",
+          "capa": "../img/países/Chile/Las Últimas Composiciones.jpg",
+          "ano": 1966,
+          "artistas": ["Violeta Parra"],
+          "generos": ["Folclore Chileno", "Nueva Canción"],
+          "frase_definicao": "Último álbum de Violeta Parra, lançado pouco antes de sua morte.",
+          "contexto": "Este disco reúne algumas das canções mais emblemáticas de Violeta Parra, incluindo 'Gracias a la Vida', tornando-se um marco da música latino-americana.",
+          "musica_destaque": {
+            "faixa": "Gracias a la Vida",
+            "link": "https://open.spotify.com/intl-pt/track/6NBJ943UfZUOv3HuxCv4H1?si=c6b0401370d9455f"
+          }
+        },
+        {
+          "nome": "Kaleidoscope Men",
+          "capa": "../img/países/Chile/Kaleidoscope men.jpg",
+          "ano": 1967,
+          "artistas": ["Los Mac's"],
+          "generos": ["Rock Psicodélico", "Garage Rock"],
+          "frase_definicao": "Primeiro álbum psicodélico do Chile.",
+          "contexto": "Lançado em 1967, 'Kaleidoscope Men' trouxe influências do rock britânico e norte-americano, sendo considerado pioneiro do rock psicodélico na América Latina.",
+          "musica_destaque": {
+            "faixa": "La Muerte de Mi Hermano",
+            "link": "https://open.spotify.com/intl-pt/track/4ByhDDvaudONqY1WsYlK0l?si=9bc0ed5cd60d4cb9"
+          }
+        },
+        {
+          "nome": "Ser Humano",
+          "capa": "../img/países/Chile/Ser humano.jpg",
+          "ano": 1997,
+          "artistas": ["Tiro de Gracia"],
+          "generos": ["Hip-Hop", "Rap"],
+          "frase_definicao": "Álbum que popularizou o rap chileno.",
+          "contexto": "Com letras urbanas e críticas sociais, 'Ser Humano' projetou Tiro de Gracia como referência do hip-hop latino nos anos 1990.",
+          "musica_destaque": {
+            "faixa": "El Juego Verdadero",
+            "link": "https://open.spotify.com/intl-pt/track/74UB6CQRH9ykJEh9ma3XwD?si=06fd0f4bc9d14de1"
+          }
+        },
+        {
+          "nome": "La Población",
+          "capa": "../img/países/Chile/La Población.jpg",
+          "ano": 1972,
+          "artistas": ["Víctor Jara"],
+          "generos": ["Nueva Canción", "Folk"],
+          "frase_definicao": "Álbum conceitual sobre a vida nas periferias chilenas.",
+          "contexto": "Gravado em 1972, 'La Población' é uma obra de denúncia social, retratando as dificuldades das comunidades marginalizadas no Chile.",
+          "musica_destaque": {
+            "faixa": "Luchín",
+            "link": "https://open.spotify.com/intl-pt/track/4YE0OOiF4sEmLXUvbpGmo7?si=9ee8dcba9b444349"
+          }
+        },
+        {
+          "nome": "Terra Incógnita",
+          "capa": "../img/países/Chile/Terra Incógnita.jpg",
+          "ano": 1975,
+          "artistas": ["Congreso"],
+          "generos": ["Jazz Fusion", "Rock Progressivo", "Folclore"],
+          "frase_definicao": "Álbum experimental que misturou jazz, rock e música chilena.",
+          "contexto": "Lançado em 1975, 'Terra Incógnita' consolidou o Congresso como uma das bandas mais criativas do Chile, explorando fusões sonoras únicas.",
+          "musica_destaque": {
+            "faixa": "Tus Ojitos",
+            "link": "https://open.spotify.com/intl-pt/track/7eQoB3OvbpHPEt9fT9UjAD?si=5385c681a4084be7"
+          }
+        },
+        {
+          "nome": "Psychedelic Drugstore",
+          "capa": "../img/países/Chile/Psychedelic Drugstore.jpg",
+          "ano": 1970,
+          "artistas": ["Aguaturbia"],
+          "generos": ["Rock Psicodélico", "Blues Rock"],
+          "frase_definicao": "Álbum icônico do rock psicodélico chileno.",
+          "contexto": "Aguaturbia foi uma das primeiras bandas psicodélicas da América Latina, e 'Psychedelic Drugstore' é considerado um clássico cult.",
+          "musica_destaque": {
+            "faixa": "Rollin' and Tumblin'",
+            "link": "https://open.spotify.com/intl-pt/track/1EszSGB1zdZckwmam7N97s?si=7711bdc23d7e4205"
+          }
+        },
+        {
+          "nome": "Fome",
+          "capa": "../img/países/Chile/Fome.jpg",
+          "ano": 1997,
+          "artistas": ["Los Tres"],
+          "generos": ["Rock Alternativo", "Latin Rock"],
+          "frase_definicao": "Álbum que consolidou Los Tres como ícones do rock chileno.",
+          "contexto": "Lançado em 1997, 'Fome' trouxe letras intensas e experimentações sonoras, sendo considerado um dos melhores discos da banda.",
+          "musica_destaque": {
+            "faixa": "La Torre de Babel",
+            "link": "https://open.spotify.com/intl-pt/track/3AxtYZk8bA3LHaJ1WfYgjj?si=859a1e151fdb4a14"
+          }
+        },
+        {
+          "nome": "Mama Funk",
+          "capa": "../img/países/Chile/Mama funk.jpg",
+          "ano": 1995,
+          "artistas": ["Los Tetas"],
+          "generos": ["Funk", "Hip-Hop", "Soul"],
+          "frase_definicao": "Álbum que trouxe o funk e soul para o Chile.",
+          "contexto": "Com grooves marcantes e influências do funk norte-americano, 'Mama Funk' projetou Los Tetas como referência da música urbana chilena.",
+          "musica_destaque": {
+            "faixa": "Corazón de Sandía",
+            "link": "https://open.spotify.com/intl-pt/track/0ip3MFKPt3q8ct6tjxU9XC?si=705c0cfd9ffd4206"
+          }
+        },
+        {
+          "nome": "Pateando Piedras",
+          "capa": "../img/países/Chile/Pateando Piedras.jpg",
+          "ano": 1986,
+          "artistas": ["Los Prisioneros"],
+          "generos": ["Rock", "Pop Rock", "New Wave"],
+          "frase_definicao": "Álbum que marcou a crítica social e política no Chile.",
+          "contexto": "Lançado em 1986, 'Pateando Piedras' trouxe letras de contestação contra a ditadura chilena, consolidando Los Prisioneros como voz da juventude.",
+          "musica_destaque": {
+            "faixa": "Por Qué No Se Van",
+            "link": "https://open.spotify.com/intl-pt/track/0FRpkVdaghjib91eaXOA97?si=49187bc23a364cea"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Argentina",
+      "albuns": [
+        {
+          "nome": "Artaud",
+          "capa": "../img/países/Argentina/Artaud.jpg",
+          "ano": 1973,
+          "artistas": ["Pescado Rabioso", "Luis Alberto Spinetta"],
+          "generos": ["Rock", "Rock Progressivo", "Psychedelic Rock"],
+          "frase_definicao": "Obra-prima de Spinetta, considerada um dos maiores discos do rock argentino.",
+          "contexto": "Apesar de sair sob o nome Pescado Rabioso, 'Artaud' é essencialmente um disco solo de Spinetta. Inspirado pelo surrealismo e pela poesia de Antonin Artaud, tornou-se referência cultural e musical na Argentina.",
+          "musica_destaque": {
+            "faixa": "Todas las hojas son del viento",
+            "link": "https://open.spotify.com/intl-pt/track/689lBKIELtWGHfsPWpR6rv?si=f64a1b975d1d4a6d"
+          }
+        },
+        {
+          "nome": "Tango: Zero Hour",
+          "capa": "../img/países/Argentina/Tango Zero Hour.jpg",
+          "ano": 1986,
+          "artistas": ["Astor Piazzolla"],
+          "generos": ["Tango", "Jazz", "Música Clássica"],
+          "frase_definicao": "Álbum que redefiniu o tango moderno.",
+          "contexto": "Gravado em Nova York com o quinteto de Piazzolla, 'Tango: Zero Hour' é considerado uma obra-prima que levou o tango a novas fronteiras, misturando elementos de jazz e música erudita.",
+          "musica_destaque": {
+            "faixa": "Milonga del Ángel",
+            "link": "https://open.spotify.com/intl-pt/track/1Gas3HGCmNODYQiMU13LqL?si=425a424c9bd74d8c"
+          }
+        },
+        {
+          "nome": "Giros",
+          "capa": "../img/países/Argentina/Giros.jpg",
+          "ano": 1985,
+          "artistas": ["Fito Páez"],
+          "generos": ["Rock", "Pop Rock"],
+          "frase_definicao": "Disco que consolidou Fito Páez como grande compositor da Argentina.",
+          "contexto": "Com letras urbanas e melodias sofisticadas, 'Giros' marcou a ascensão de Fito Páez nos anos 80, tornando-se um clássico do rock argentino.",
+          "musica_destaque": {
+            "faixa": "11 y 6",
+            "link": "https://open.spotify.com/intl-pt/track/2PkTjm1QAJCZbJ9MqC4RqA?si=06c287fc52ed404d"
+          }
+        },
+        {
+          "nome": "Alma de Diamante",
+          "capa": "../img/países/Argentina/Alma de Diamante.jpg",
+          "ano": 1980,
+          "artistas": ["Spinetta Jade"],
+          "generos": ["Jazz Rock", "Fusion", "Rock"],
+          "frase_definicao": "Primeiro álbum da banda Spinetta Jade, liderada por Luis Alberto Spinetta.",
+          "contexto": "Lançado em 1980, 'Alma de Diamante' trouxe uma fusão de jazz e rock, consolidando Spinetta como um dos músicos mais inovadores da Argentina.",
+          "musica_destaque": {
+            "faixa": "Alma de Diamante",
+            "link": "https://open.spotify.com/intl-pt/track/6F3VxUPgfcvDDpk2UxsJ5a?si=27b5450184e144eb"
+          }
+        },
+        {
+          "nome": "Hora de No Ver",
+          "capa": "../img/países/Argentina/Hora de No Ver.jpg",
+          "ano": 1994,
+          "artistas": ["Suárez"],
+          "generos": ["Indie Rock", "Alternative Rock"],
+          "frase_definicao": "Álbum cult do indie argentino dos anos 90.",
+          "contexto": "Suárez, liderada por Rosario Bléfari, lançou 'Hora de No Ver' em 1994, tornando-se referência na cena alternativa argentina.",
+          "musica_destaque": {
+            "faixa": "Morirían",
+            "link": "https://open.spotify.com/intl-pt/track/4n3VpDCuO3ARQjAYKROGdf?si=6aca9ac85bbb4288"
+          }
+        },
+        {
+          "nome": "El jardín de los presentes",
+          "capa": "../img/países/Argentina/El jardín de los presentes.jpg",
+          "ano": 1976,
+          "artistas": ["Invisible"],
+          "generos": ["Rock Progressivo", "Rock"],
+          "frase_definicao": "Último álbum da banda Invisible, liderada por Spinetta.",
+          "contexto": "Com arranjos sofisticados e letras poéticas, 'El jardín de los presentes' é considerado um dos discos mais importantes do rock argentino dos anos 70.",
+          "musica_destaque": {
+            "faixa": "El Anillo del Capitán Beto",
+            "link": "https://open.spotify.com/intl-pt/track/23jMDvKil4frbTA35BVzBY?si=89fe38b41b5740b8"
+          }
+        },
+        {
+          "nome": "Mujeres Argentinas",
+          "capa": "../img/países/Argentina/Mujeres Argentinas.jpg",
+          "ano": 1969,
+          "artistas": ["Mercedes Sosa"],
+          "generos": ["Folclore Argentino", "Nueva Canción"],
+          "frase_definicao": "Álbum que homenageia figuras femininas da história argentina.",
+          "contexto": "Com composições de Ariel Ramírez e Félix Luna, 'Mujeres Argentinas' é um clássico do folclore argentino e consolidou Mercedes Sosa como 'La Voz de América Latina'.",
+          "musica_destaque": {
+            "faixa": "Alfonsina y el Mar",
+            "link": "https://open.spotify.com/intl-pt/track/7aQUylpLZdnsSBDNFPXPyY?si=84564f21c29b4a79"
+          }
+        },
+        {
+          "nome": "Clics Modernos",
+          "capa": "../img/países/Argentina/Clics Modernos.jpg",
+          "ano": 1983,
+          "artistas": ["Charly García"],
+          "generos": ["Rock", "New Wave", "Synthpop"],
+          "frase_definicao": "Álbum que trouxe sonoridades modernas ao rock argentino.",
+          "contexto": "Gravado em Nova York, 'Clics Modernos' marcou a transição de Charly García para uma estética mais eletrônica e urbana, tornando-se um clássico da música argentina.",
+          "musica_destaque": {
+            "faixa": "Nos Siguen Pegando Abajo",
+            "link": "https://open.spotify.com/intl-pt/track/4VikOud5ZmdmHH6h7uQeDB?si=89be8573b7784ccd"
+          }
+        },
+        {
+          "nome": "Dynamo",
+          "capa": "../img/países/Argentina/Dynamo.jpg",
+          "ano": 1992,
+          "artistas": ["Soda Stereo"],
+          "generos": ["Rock Alternativo", "Shoegaze", "Pop Rock"],
+          "frase_definicao": "Álbum experimental que expandiu os limites do rock latino.",
+          "contexto": "Com forte influência do shoegaze e da música alternativa, 'Dynamo' é considerado um dos discos mais ousados da carreira do Soda Stereo.",
+          "musica_destaque": {
+            "faixa": "Primavera 0",
+            "link": "https://open.spotify.com/intl-pt/track/2V4aobDkpJD7e36J8xPCL6?si=262fbfeb80624a77"
+          }
+        },
+        {
+          "nome": "Pequeñas anécdotas sobre las instituciones",
+          "capa": "../img/países/Argentina/Pequeñas anécdotas sobre las instituciones.jpg",
+          "ano": 1974,
+          "artistas": ["Sui Generis"],
+          "generos": ["Rock", "Folk Rock"],
+          "frase_definicao": "Álbum conceitual que criticou instituições sociais e políticas.",
+          "contexto": "Lançado em 1974, este disco de Sui Generis trouxe letras de contestação e é considerado um dos trabalhos mais importantes da dupla Charly García e Nito Mestre.",
+          "musica_destaque": {
+            "faixa": "Instituciones",
+            "link": "https://open.spotify.com/intl-pt/track/0RPoVlxtkhJPaeeCNHTy85?si=6fe22ebdb4ed4731"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Uruguai",
+      "albuns": [
+        {
+          "nome": "Mateo solo bien se lame",
+          "capa": "../img/países/Uruguai/Mateo solo bien se lame.jpg",
+          "ano": 1972,
+          "artistas": ["Eduardo Mateo"],
+          "generos": ["Candombe", "Folk", "MPB"],
+          "frase_definicao": "Álbum cult que mistura candombe e folk uruguaio.",
+          "contexto": "Considerado uma obra-prima da música uruguaia, Eduardo Mateo uniu ritmos afro-uruguaios com influências do folk e da música popular brasileira.",
+          "musica_destaque": {
+            "faixa": "Yulelé",
+            "link": "https://open.spotify.com/intl-pt/track/40O91zPahOsHLNkqh5PIL9?si=a7a47d53f51744f4"
+          }
+        },
+        {
+          "nome": "Circa 1968",
+          "capa": "../img/países/Uruguai/Circa 1968.jpg",
+          "ano": 1968,
+          "artistas": ["El Kinto"],
+          "generos": ["Rock Psicodélico", "Candombe Beat"],
+          "frase_definicao": "Primeiro grupo a misturar candombe com rock no Uruguai.",
+          "contexto": "El Kinto foi pioneiro ao fundir o candombe uruguaio com o rock psicodélico, criando uma sonoridade única e influente.",
+          "musica_destaque": {
+            "faixa": "Príncipe Azul",
+            "link": "https://open.spotify.com/intl-pt/track/4PhjO07qIV2GCISnGx7XDN?si=5d53ba3d1f9b4488"
+          }
+        },
+        {
+          "nome": "Magic Time",
+          "capa": "../img/países/Uruguai/Magic time.webp",
+          "ano": 1977,
+          "artistas": ["Opa"],
+          "generos": ["Jazz Fusion", "Candombe"],
+          "frase_definicao": "Álbum que levou o candombe fusion ao cenário internacional.",
+          "contexto": "Opa, banda formada por uruguaios nos EUA, misturou jazz fusion com ritmos afro-uruguaios, tornando-se referência mundial.",
+          "musica_destaque": {
+            "faixa": "Montevideo",
+            "link": "https://youtu.be/MDAJrp47i48?si=3vad6Yasx9WLytF_"
+          }
+        },
+        {
+          "nome": "Totem",
+          "capa": "../img/países/Uruguai/Totem.jpg",
+          "ano": 1971,
+          "artistas": ["Totem"],
+          "generos": ["Candombe Rock", "Funk"],
+          "frase_definicao": "Álbum que consolidou o candombe rock no Uruguai.",
+          "contexto": "Totem foi uma das bandas mais importantes do Uruguai nos anos 70, misturando candombe com rock e funk.",
+          "musica_destaque": {
+            "faixa": "Dedos",
+            "link": "https://open.spotify.com/intl-pt/track/7aRjcp3b110Bu2DcSs1IKh?si=342eae8c1d714632"
+          }
+        },
+        {
+          "nome": "Tango que me hiciste mal...",
+          "capa": "../img/países/Uruguai/Tango que me hiciste mal.jpg",
+          "ano": 1985,
+          "artistas": ["Los Estómagos"],
+          "generos": ["Punk Rock", "Post-Punk"],
+          "frase_definicao": "Álbum que marcou a cena punk uruguaia.",
+          "contexto": "Los Estómagos se tornaram ícones do punk uruguaio nos anos 80, com letras intensas e sonoridade crua.",
+          "musica_destaque": {
+            "faixa": "Torturador",
+            "link": "https://open.spotify.com/intl-pt/track/0lZ1rtjQjedkGLJar9EYbX?si=79884da7139b400a"
+          }
+        },
+        {
+          "nome": "Macumba",
+          "capa": "../img/países/Uruguai/Macumba.jpg",
+          "ano": 2013,
+          "artistas": ["Hablan Por La Espalda"],
+          "generos": ["Punk", "Garage Rock", "Psychedelic"],
+          "frase_definicao": "Álbum que misturou punk com psicodelia.",
+          "contexto": "Hablan Por La Espalda trouxe uma sonoridade experimental, misturando punk, garage e elementos psicodélicos.",
+          "musica_destaque": {
+            "faixa": "Macumba",
+            "link": "https://open.spotify.com/intl-pt/track/6M6hxmd9TS4ZKIeRAt61m9?si=924911431a2c4344"
+          }
+        },
+        {
+          "nome": "Soy Sola",
+          "capa": "../img/países/Uruguai/Soy sola.jpg",
+          "ano": 2006,
+          "artistas": ["Ana Prada"],
+          "generos": ["Pop", "Folk"],
+          "frase_definicao": "Álbum de estreia de Ana Prada, com forte identidade feminina.",
+          "contexto": "Com letras intimistas e arranjos delicados, 'Soy Sola' projetou Ana Prada como uma das vozes contemporâneas do Uruguai.",
+          "musica_destaque": {
+            "faixa": "Soy Sola",
+            "link": "https://open.spotify.com/intl-pt/track/5a6UDEG4fZY8KgoVzSiqpp?si=0c02d94b7dbc4516"
+          }
+        },
+        {
+          "nome": "Temas Pendientes",
+          "capa": "../img/países/Uruguai/Temas Pendientes.jpg",
+          "ano": 1998,
+          "artistas": ["Malena Muyala"],
+          "generos": ["Tango", "Canción"],
+          "frase_definicao": "Álbum que renovou o tango uruguaio.",
+          "contexto": "Malena Muyala trouxe uma abordagem contemporânea ao tango, com letras modernas e interpretação intensa.",
+          "musica_destaque": {
+            "faixa": "Temas Pendientes",
+            "link": "https://open.spotify.com/intl-pt/track/5dqYTNYfKdpOneHIOKZ2Un?si=0a7e620877a047a3"
+          }
+        },
+        {
+          "nome": "Canta Zitarrosa",
+          "capa": "../img/países/Uruguai/Canta Zitarrosa.jpg",
+          "ano": 1966,
+          "artistas": ["Alfredo Zitarrosa"],
+          "generos": ["Folclore", "Milonga"],
+          "frase_definicao": "Álbum clássico do folclore uruguaio.",
+          "contexto": "Alfredo Zitarrosa é um dos maiores nomes da música uruguaia, e 'Canta Zitarrosa' consolidou sua carreira como intérprete da milonga.",
+          "musica_destaque": {
+            "faixa": "Milonga de ojos dorados",
+            "link": "https://open.spotify.com/intl-pt/track/2IclipwAZE2yU7YfavuXNN?si=5546e804de004860"
+          }
+        },
+        {
+          "nome": "Amanecer búho",
+          "capa": "../img/países/Uruguai/Amanecer búho.jpg",
+          "ano": 1999,
+          "artistas": ["Buenos Muchachos"],
+          "generos": ["Rock Alternativo", "Indie Rock"],
+          "frase_definicao": "Álbum que marcou a cena alternativa uruguaia.",
+          "contexto": "Buenos Muchachos se tornaram referência do rock alternativo uruguaio, e 'Amanecer búho' é considerado um dos melhores discos da banda.",
+          "musica_destaque": {
+            "faixa": "He Never Wants To See You (once Again)",
+            "link": "https://open.spotify.com/intl-pt/track/61MGE2IkCsJOc75PEnHqty?si=7fe2e9c62ba5408f"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Bolívia",
+      "albuns": [
+        {
+          "nome": "El Inca",
+          "capa": "../img/países/Bolívia/el inca.jpg",
+          "ano": 1973,
+          "artistas": ["Wara"],
+          "generos": ["Rock Progressivo", "Folk Andino"],
+          "frase_definicao": "Álbum que misturou rock progressivo com música andina.",
+          "contexto": "Wara foi uma das primeiras bandas bolivianas a unir instrumentos tradicionais andinos com o rock progressivo, criando uma sonoridade única.",
+          "musica_destaque": {
+            "faixa": "El Inca",
+            "link": "https://open.spotify.com/intl-pt/track/2GRY2aKmGUcBUhJQaNjtrS?si=363c2a55f1c44d1b"
+          }
+        },
+        {
+          "nome": "Reina del Folklore 1970-1971",
+          "capa": "../img/países/Bolívia/Reina-del-Folklore-1970-1971.jpg",
+          "ano": 1971,
+          "artistas": ["Luzmila Carpio"],
+          "generos": ["Folclore Andino", "Música Tradicional"],
+          "frase_definicao": "Álbum que consagrou Luzmila Carpio como voz do folclore boliviano.",
+          "contexto": "Com interpretações profundas da música tradicional, Luzmila Carpio se tornou referência cultural e defensora das raízes indígenas.",
+          "musica_destaque": {
+            "faixa": "Papel de Plata",
+            "link": "https://open.spotify.com/intl-pt/track/0ebhHa5LZQR8oJ7bhpw6DJ?si=ede0c0cc40d2497e"
+          }
+        },
+        {
+          "nome": "Los Thuthanaka",
+          "capa": "../img/países/Bolívia/Los Thuthanaka.jpg",
+          "ano": 2025,
+          "artistas": ["Chuquimamani-Condori", "Joshua Chuquimia Crampton"],
+          "generos": ["Experimental", "Electronic", "Andino"],
+          "frase_definicao": "Álbum contemporâneo boliviano que mistura eletrônica e raízes andinas.",
+          "contexto": "Resenhado pelo Pitchfork em 2025, 'Los Thuthanaka' é um projeto de Chuquimamani-Condori e Joshua Chuquimia Crampton. O disco explora sonoridades eletrônicas e experimentais, reinterpretando ritmos tradicionais como huayño e caporal em uma estética contemporânea.",
+          "musica_destaque": {
+            "faixa": "Huayño “Ipi Saxra”",
+            "link": "https://losthuthanaka.bandcamp.com/track/huay-o-ipi-saxra-2"
+          }
+        },
+        {
+          "nome": "Canto a la mujer de mi Pueblo",
+          "capa": "../img/países/Bolívia/Canto a la mujer de mi Pueblo.jpg",
+          "ano": 1981,
+          "artistas": ["Los Kjarkas"],
+          "generos": ["Folclore Andino", "Huayño"],
+          "frase_definicao": "Álbum clássico dos Kjarkas, ícones da música andina.",
+          "contexto": "Los Kjarkas se tornaram mundialmente conhecidos por suas composições que exaltam a cultura andina e a identidade boliviana.",
+          "musica_destaque": {
+            "faixa": "Por un Mundo Nuevo",
+            "link": "https://open.spotify.com/intl-pt/track/6ZqGurjfLYQoveZrXlV6Qv?si=2fda2cf40d674f18"
+          }
+        },
+        {
+          "nome": "Sangre Andina",
+          "capa": "../img/países/Bolívia/Sangre Andina.jpg",
+          "ano": 1996,
+          "artistas": ["Savia Andina"],
+          "generos": ["Folclore Andino", "Huayño"],
+          "frase_definicao": "Álbum que consolidou Savia Andina como referência da música boliviana.",
+          "contexto": "Savia Andina foi uma das bandas mais importantes do folclore boliviano, e 'Sangre Andina' é considerado um de seus maiores clássicos.",
+          "musica_destaque": {
+            "faixa": "Sangre Andina",
+            "link": "https://open.spotify.com/intl-pt/track/7IGySyPYtIHjciPTBgmGpS?si=1d8026edb3b941d7"
+          }
+        },
+        {
+          "nome": "Nunca Más",
+          "capa": "../img/países/Bolívia/Nunca Más.jpg",
+          "ano": 2003,
+          "artistas": ["Atajo"],
+          "generos": ["Rock", "Fusión"],
+          "frase_definicao": "Álbum que trouxe crítica social através do rock boliviano.",
+          "contexto": "Atajo se destacou nos anos 90 por misturar rock com ritmos locais e letras de contestação política e social.",
+          "musica_destaque": {
+            "faixa": "Te Siento, Mi Sientes",
+            "link": "https://open.spotify.com/intl-pt/track/2yFEJN87Umv3Mk7cPcynbS?si=6f93481694c54fe6"
+          }
+        },
+        {
+          "nome": "El Sapo",
+          "capa": "../img/países/Bolívia/el sapo.jpg",
+          "ano": 1999,
+          "artistas": ["Azul Azul"],
+          "generos": ["Pop", "Cumbia", "Dance"],
+          "frase_definicao": "Álbum que popularizou Azul Azul com humor e irreverência.",
+          "contexto": "Azul Azul ficou famoso por suas músicas divertidas e irreverentes, e 'El Sapo' se tornou um fenômeno popular na Bolívia e fora dela.",
+          "musica_destaque": {
+            "faixa": "La Bomba",
+            "link": "https://open.spotify.com/intl-pt/track/0Tl84qfow6Dv0PM60zoBhb?si=2a63bdd797184a8d"
+          }
+        },
+        {
+          "nome": "Resolana",
+          "capa": "../img/países/Bolívia/Resolana.jpg",
+          "ano": 1981,
+          "artistas": ["Emma Junaro"],
+          "generos": ["Folk", "Nueva Canción"],
+          "frase_definicao": "Álbum intimista de Emma Junaro, voz feminina da nova canción boliviana.",
+          "contexto": "Emma Junaro se destacou por sua interpretação delicada e poética, e 'Resolana' é um dos discos mais representativos de sua carreira.",
+          "musica_destaque": {
+            "faixa": "La Resolana",
+            "link": "https://open.spotify.com/intl-pt/track/30nsOHAvQ64qUkGLwuOK3j?si=c63e57a94ce44392"
+          }
+        },
+        {
+          "nome": "Yayo Joffre y Los Jairas",
+          "capa": "../img/países/Bolívia/Yayo Joffre y Los Jairas.jpg",
+          "ano": 1970,
+          "artistas": ["Los Jairas"],
+          "generos": ["Folclore Andino", "Huayño"],
+          "frase_definicao": "Álbum que consolidou Los Jairas como pioneiros da música andina moderna.",
+          "contexto": "Los Jairas foram fundamentais para a popularização da música andina, e este disco é um marco de sua trajetória.",
+          "musica_destaque": {
+            "faixa": "Recuerdo",
+            "link": "https://open.spotify.com/intl-pt/track/0J9xMIkqyH0t8J3ujyEEBc?si=5ffc858aa1ee4a34"
+          }
+        },
+        {
+          "nome": "El Disco De Oro",
+          "capa": "../img/países/Bolívia/El Disco De Oro.png",
+          "ano": 1982,
+          "artistas": ["Zulma Yugar"],
+          "generos": ["Folclore", "Huayño"],
+          "frase_definicao": "Álbum que consagrou Zulma Yugar como uma das maiores intérpretes da Bolívia.",
+          "contexto": "Zulma Yugar é uma das vozes mais importantes da Bolívia, e 'El Disco de Oro' reúne alguns de seus maiores sucessos.",
+          "musica_destaque": {
+            "faixa": "Boquerón Abandonado",
+            "link": "https://open.spotify.com/intl-pt/track/3FVMyE0r1nDTSHaWzdngQG?si=d9ec73750586459b"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Venezuela",
+      "albuns": [
+        {
+          "nome": "Tonadas",
+          "capa": "../img/países/Venezuela/Tonadas.jpg",
+          "ano": 1974,
+          "artistas": ["Simón Díaz"],
+          "generos": ["Folclore Venezuelano", "Tonada"],
+          "frase_definicao": "Álbum que consagrou Simón Díaz como voz da tonada venezuelana.",
+          "contexto": "Simón Díaz é considerado um dos maiores ícones da música venezuelana, e 'Tonadas' reúne composições que celebram a vida rural e a cultura popular.",
+          "musica_destaque": {
+            "faixa": "Tonada de Luna Llena",
+            "link": "https://open.spotify.com/intl-pt/track/7epe37kYbhgDxaBUQOaHgx?si=9f5fc656725a4238"
+          }
+        },
+        {
+          "nome": "Muerte",
+          "capa": "../img/países/Venezuela/Muerte.jpg",
+          "ano": 2012,
+          "artistas": ["Canserbero"],
+          "generos": ["Rap", "Hip-Hop"],
+          "frase_definicao": "Álbum conceitual que aborda temas de vida e morte.",
+          "contexto": "Canserbero se tornou um dos maiores nomes do rap latino com 'Muerte', trazendo letras intensas e reflexivas sobre violência, amor e espiritualidade.",
+          "musica_destaque": {
+            "faixa": "Es Épico",
+            "link": "https://open.spotify.com/intl-pt/track/2kd0T6zgABT8P0s2h9QU5O?si=cc1ec296e00f418f"
+          }
+        },
+        {
+          "nome": "Arca",
+          "capa": "../img/países/Venezuela/Arca.jpg",
+          "ano": 2017,
+          "artistas": ["Arca"],
+          "generos": ["Experimental", "Electronic", "Avant-Pop"],
+          "frase_definicao": "Álbum homônimo que consolidou Arca como referência mundial da música experimental.",
+          "contexto": "Arca, artista venezuelana, ganhou reconhecimento internacional por sua estética inovadora e colaborações com Björk e FKA Twigs. Este disco explora identidade e liberdade sonora.",
+          "musica_destaque": {
+            "faixa": "Desafío",
+            "link": "https://open.spotify.com/intl-pt/track/3r0gvoaAkWmLdJO4UUv94v?si=c1f8d4e155d3492d"
+          }
+        },
+        {
+          "nome": "La Ofrenda De Vytas",
+          "capa": "../img/países/Venezuela/La Ofrenda De Vytas.jpg",
+          "ano": 1973,
+          "artistas": ["Vytas Brenner"],
+          "generos": ["Folk", "Rock Progressivo", "Fusion"],
+          "frase_definicao": "Álbum que misturou música tradicional venezuelana com rock progressivo.",
+          "contexto": "Vytas Brenner foi pioneiro ao unir instrumentos folclóricos com sonoridades modernas, criando uma fusão única que marcou a música venezuelana.",
+          "musica_destaque": {
+            "faixa": "Ofrenda de Miguel",
+            "link": "https://open.spotify.com/intl-pt/track/0YPnguowlMGgS7MBDuCR40?si=97d3dea593fe49ca"
+          }
+        },
+        {
+          "nome": "Dimension Latina '75",
+          "capa": "../img/países/Venezuela/Dimension Latina '75.jpg",
+          "ano": 1975,
+          "artistas": ["La Dimension Latina","Oscar D'León","Wladimir Lozano"],
+          "generos": ["Salsa"],
+          "frase_definicao": "Álbum clássico da salsa venezuelana.",
+          "contexto": "Dimension Latina se tornou uma das maiores orquestras de salsa da Venezuela, e este disco é considerado um marco do gênero.",
+          "musica_destaque": {
+            "faixa": "Llorarás",
+            "link": "https://open.spotify.com/intl-pt/track/2ZGOGXP7ssbt1MXLBnirPQ?si=8db59864c590432f"
+          }
+        },
+        {
+          "nome": "Al Norte del Sur",
+          "capa": "../img/países/Venezuela/Al Norte del Sur.jpg",
+          "ano": 1988,
+          "artistas": ["Franco de Vita"],
+          "generos": ["Pop Rock", "Balada"],
+          "frase_definicao": "Álbum que projetou Franco de Vita internacionalmente.",
+          "contexto": "Com letras românticas e sociais, 'Al Norte del Sur' consolidou Franco de Vita como um dos maiores cantautores da América Latina.",
+          "musica_destaque": {
+            "faixa": "Te Amo",
+            "link": "https://open.spotify.com/intl-pt/track/3vxsXUUU9jUJrGNP4APtj3?si=f67c68ed72174710"
+          }
+        },
+        {
+          "nome": "The New Sound of The Venezuelan Gozadera",
+          "capa": "../img/países/Venezuela/The New Sound of The Venezuelan Gozadera.jpg",
+          "ano": 1998,
+          "artistas": ["Los Amigos Invisibles"],
+          "generos": ["Funk", "Acid Jazz", "Disco"],
+          "frase_definicao": "Álbum que levou Los Amigos Invisibles ao cenário internacional.",
+          "contexto": "Misturando funk, disco e música latina, este disco foi lançado pelo selo Luaka Bop de David Byrne e projetou a banda mundialmente.",
+          "musica_destaque": {
+            "faixa": "Ponerte en Cuatro",
+            "link": "https://open.spotify.com/intl-pt/track/73xCv1IAfmVWtsDNTQvQzj?si=412d913f4336474f"
+          }
+        },
+        {
+          "nome": "Será",
+          "capa": "../img/países/Venezuela/Será.jpg",
+          "ano": 2013,
+          "artistas": ["La Vida Bohème"],
+          "generos": ["Indie Rock", "Alternative Rock"],
+          "frase_definicao": "Álbum que consolidou La Vida Bohème como referência do indie latino.",
+          "contexto": "Com letras políticas e sonoridade explosiva, 'Será' foi indicado ao Grammy Latino e marcou a cena alternativa venezuelana.",
+          "musica_destaque": {
+            "faixa": "La Vida Mejor",
+            "link": "https://open.spotify.com/intl-pt/track/7CdqvFbDnKnEuz6JUTwT5y?si=b5313265764f46da"
+          }
+        },
+        {
+          "nome": "Harakiri City",
+          "capa": "../img/países/Venezuela/Harakiri City.jpg",
+          "ano": 1996,
+          "artistas": ["Caramelos de Cianuro"],
+          "generos": ["Rock Alternativo", "Pop Rock"],
+          "frase_definicao": "Álbum que projetou Caramelos de Cianuro como ícones do rock venezuelano.",
+          "contexto": "Com letras irreverentes e sonoridade alternativa, 'Harakiri City' se tornou cult na cena rock da Venezuela.",
+          "musica_destaque": {
+            "faixa": "El MArtillo",
+            "link": "https://open.spotify.com/intl-pt/track/3YCuC0GRYbpMEHcqle3Wye?si=680f6c58b6b24fc1"
+          }
+        },
+        {
+          "nome": "Pajarillo Verde",
+          "capa": "../img/países/Venezuela/Pajarillo Verde.jpg",
+          "ano": 1981,
+          "artistas": ["Cecilia Todd"],
+          "generos": ["Folclore Venezuelano"],
+          "frase_definicao": "Álbum que consagrou Cecilia Todd como voz feminina do folclore venezuelano.",
+          "contexto": "Com interpretações delicadas e autênticas, 'Pajarillo Verde' é considerado um clássico da música tradicional venezuelana.",
+          "musica_destaque": {
+            "faixa": "Pajarillo Verde",
+            "link": "https://open.spotify.com/intl-pt/track/3ekcfrVfdCBaP8swxQCffo?si=dbf1abbb90444d50"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Peru",
+      "albuns": [
+        {
+          "nome": "Voice of the Xtabay",
+          "capa": "../img/países/Peru/Voice of the Xtabay.jpg",
+          "ano": 1950,
+          "artistas": ["Yma Sumac"],
+          "generos": ["Exotica", "World Music"],
+          "frase_definicao": "Álbum que apresentou Yma Sumac ao mundo com sua voz única.",
+          "contexto": "Lançado em 1950 nos Estados Unidos, 'Voice of the Xtabay' tornou Yma Sumac uma estrela internacional, destacando sua impressionante extensão vocal e a fusão de música andina com exotica.",
+          "musica_destaque": {
+            "faixa": "Taita Inty",
+            "link": "https://open.spotify.com/intl-pt/track/3VUhUXnQSahUjJHrUgmiwz?si=f74baea054ce42d5"
+          }
+        },
+        {
+          "nome": "Los Destellos",
+          "capa": "../img/países/Peru/Los Destellos.jpg",
+          "ano": 1968,
+          "artistas": ["Los Destellos"],
+          "generos": ["Cumbia Peruana", "Chicha"],
+          "frase_definicao": "Álbum pioneiro da cumbia psicodélica peruana.",
+          "contexto": "Los Destellos foram fundamentais na criação da chicha, misturando guitarras elétricas com ritmos tropicais. Este disco é considerado um marco da música popular peruana.",
+          "musica_destaque": {
+            "faixa": "Guajira Sicodelica",
+            "link": "https://open.spotify.com/intl-pt/track/4x4GKtgrjYx3oBb7rRKJ6U?si=305286968209464f"
+          }
+        },
+        {
+          "nome": "Tarimba Negra",
+          "capa": "../img/países/Peru/Tarimba Negra.jpg",
+          "ano": 1978,
+          "artistas": ["Chabuca Granda"],
+          "generos": ["Criollo", "Vals Peruano"],
+          "frase_definicao": "Álbum que reafirmou Chabuca Granda como ícone da música criolla.",
+          "contexto": "Com composições sofisticadas e letras poéticas, 'Tarimba Negra' é um dos discos mais importantes da carreira de Chabuca Granda.",
+          "musica_destaque": {
+            "faixa": "Cardo o Ceniza",
+            "link": "https://open.spotify.com/intl-pt/track/38qMZlnlD4LQMUqfc3bo56?si=0d445c4e541c4a57"
+          }
+        },
+        {
+          "nome": "Fuera de la ciudad",
+          "capa": "../img/países/Peru/Fuera de la ciudad.jpg",
+          "ano": 1973,
+          "artistas": ["El Polen"],
+          "generos": ["Folk Rock", "Andino"],
+          "frase_definicao": "Álbum que misturou rock com música andina.",
+          "contexto": "El Polen foi uma das primeiras bandas peruanas a unir instrumentos tradicionais andinos com o folk rock, criando uma sonoridade inovadora.",
+          "musica_destaque": {
+            "faixa": "Mi Cueva",
+            "link": "https://open.spotify.com/intl-pt/track/0by0cdZgkMJ3HXMrCeDFRm?si=8c07adcba8dc4ea2"
+          }
+        },
+        {
+          "nome": "Palabras Urgentes",
+          "capa": "../img/países/Peru/Palabras Urgentes.jpg",
+          "ano": 2021,
+          "artistas": ["Susana Baca"],
+          "generos": ["Afro-Peruano", "World Music"],
+          "frase_definicao": "Álbum que reafirma Susana Baca como voz da cultura afro-peruana.",
+          "contexto": "Lançado em 2021, 'Palabras Urgentes' traz mensagens de resistência e identidade, consolidando Susana Baca como uma das maiores intérpretes da música latino-americana.",
+          "musica_destaque": {
+            "faixa": "Sorongo",
+            "link": "https://open.spotify.com/intl-pt/track/5IcPvP3D5xV3Z8m0Xgawg6?si=69d644f058b74349"
+          }
+        },
+        {
+          "nome": "Primera Dosis",
+          "capa": "../img/países/Peru/Primera Dosis.jpg",
+          "ano": 1985,
+          "artistas": ["Narcosis"],
+          "generos": ["Punk Rock"],
+          "frase_definicao": "Primeira demo punk do Peru, considerada histórica.",
+          "contexto": "Narcosis foi uma das bandas pioneiras do punk peruano, e 'Primera Dosis' é um registro seminal da cena underground dos anos 80.",
+          "musica_destaque": {
+            "faixa": "Sucio Policía",
+            "link": "https://open.spotify.com/intl-pt/track/5ZMYggZmihQ4D7p7OUq3qX?si=98528e95d836423a"
+          }
+        },
+        {
+          "nome": "Los Charapas de Oro",
+          "capa": "../img/países/Peru/Los Charapas de Oro.jpg",
+          "ano": 1974,
+          "artistas": ["Los Mirlos"],
+          "generos": ["Cumbia Amazónica", "Chicha"],
+          "frase_definicao": "Álbum que popularizou a cumbia amazônica.",
+          "contexto": "Los Mirlos se tornaram ícones da cumbia amazônica, misturando guitarras psicodélicas com ritmos tropicais da selva peruana.",
+          "musica_destaque": {
+            "faixa": "La Danza de Petrolero",
+            "link": "https://open.spotify.com/intl-pt/track/6wYvtOi8fqJfC2vLNncDnL?si=430b7ceef3224d3a"
+          }
+        },
+        {
+          "nome": "Los días y las sombras",
+          "capa": "../img/países/Peru/Los días y las sombras.jpg",
+          "ano": 1998,
+          "artistas": ["Voz Propia"],
+          "generos": ["Post-Punk", "Rock Alternativo"],
+          "frase_definicao": "Álbum que marcou a cena post-punk peruana.",
+          "contexto": "Voz Propia foi uma das bandas mais importantes do underground peruano, e 'Los días y las sombras' é considerado um clássico da cena alternativa.",
+          "musica_destaque": {
+            "faixa": "El Sueño",
+            "link": "https://open.spotify.com/intl-pt/track/4xJbpaOIa9CDt8qmCUogRB?si=ceca776005e9430c"
+          }
+        },
+        {
+          "nome": "Los sueños mueren primero",
+          "capa": "../img/países/Peru/Los sueños mueren primero.jpg",
+          "ano": 1990,
+          "artistas": ["Lima 13"],
+          "generos": ["Post-Punk", "New Wave"],
+          "frase_definicao": "Álbum cult da cena alternativa peruana.",
+          "contexto": "Lima 13 se destacou no final dos anos 80 com um som sombrio e experimental, e 'Los sueños mueren primero' é um registro marcante dessa fase.",
+          "musica_destaque": {
+            "faixa": "Tratando de Escapar",
+            "link": "https://open.spotify.com/intl-pt/track/3aaCvoltxXdwm4snHPHfWn?si=fd1e3ec4dbc942d9"
+          }
+        },
+        {
+          "nome": "Primitivo",
+          "capa": "../img/países/Peru/Primitivo.jpg",
+          "ano": 2015,
+          "artistas": ["Miguel Flores"],
+          "generos": ["Experimental", "Folk Andino"],
+          "frase_definicao": "Álbum experimental que misturou música andina com improvisação.",
+          "contexto": "Miguel Flores foi um dos músicos mais inovadores do Peru, e 'Primitivo' é considerado um clássico cult da música experimental latino-americana.",
+          "musica_destaque": {
+            "faixa": "Pachacuti",
+            "link": "https://open.spotify.com/intl-pt/track/05PKJ66ZJGDCYeaLBpnNl7?si=5ed0886348ab4ae4"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Paraguai",
+      "albuns": [
+        {
+          "nome": "Harpa Paraguaya en Hi-Fi",
+          "capa": "../img/países/Paraguai/Harpa Paraguaya en Hi-Fi.jpg",
+          "ano": 1966,
+          "artistas": ["Luis Bordón"],
+          "generos": ["Folclore Paraguayo", "Harpa"],
+          "frase_definicao": "Álbum que consagrou Luis Bordón como mestre da harpa paraguaia.",
+          "contexto": "Luis Bordón é considerado um dos maiores harpistas do Paraguai, e este disco ajudou a popularizar o instrumento internacionalmente.",
+          "musica_destaque": {
+            "faixa": "Pájaro Campana",
+            "link": "https://open.spotify.com/intl-pt/track/17EAs5BYooCSCvieN2end6?si=2247d2302e2b465c"
+          }
+        },
+        {
+          "nome": "Obras maestras de la guarania Vol. III",
+          "capa": "../img/países/Paraguai/Obras maestras de la guarania Vol. III.png",
+          "ano": 2009,
+          "artistas": ["José Asunción Flores"],
+          "generos": ["Guarania"],
+          "frase_definicao": "Álbum que reúne obras-primas da guarania, gênero criado por José Asunción Flores.",
+          "contexto": "Flores é o criador da guarania, e este disco é um testemunho de sua importância na música paraguaia.",
+          "musica_destaque": {
+            "faixa": "Mburicao",
+            "link": "https://www.youtube.com/watch?v=WHsvT8r2AQQ"
+          }
+        },
+        {
+          "nome": "Aguije",
+          "capa": "../img/países/Paraguai/Aguije.jpg",
+          "ano": 2018,
+          "artistas": ["Tierra Adentro"],
+          "generos": ["Pop", "Folclore Paraguayo"],
+          "frase_definicao": "Álbum contemporâneo que mistura pop com raízes paraguaias.",
+          "contexto": "Tierra Adentro é uma das bandas modernas mais populares do Paraguai, e 'Aguije' celebra a identidade cultural com sonoridade atual.",
+          "musica_destaque": {
+            "faixa": "Aguije",
+            "link": "https://open.spotify.com/intl-pt/track/5jMW9bjIpyziEv5mu5Next?si=ed63cdabf73e4197"
+          }
+        },
+        {
+          "nome": "La Bamba",
+          "capa": "../img/países/Paraguai/Los Diablos del Paraguay.jpg",
+          "ano": 1965,
+          "artistas": ["Los Diablos del Paraguay"],
+          "generos": ["Folclore", "Popular"],
+          "frase_definicao": "Álbum que popularizou Los Diablos del Paraguay como grupo folclórico.",
+          "contexto": "Com interpretações vibrantes, 'La Bamba' ajudou a difundir a música paraguaia em toda a América Latina.",
+          "musica_destaque": {
+            "faixa": "La Bamba",
+            "link": "https://open.spotify.com/intl-pt/track/6Of1L1aWbBA9wajm32Cptb?si=ce58686053804ffa"
+          }
+        },
+        {
+          "nome": "Legado",
+          "capa": "../img/países/Paraguai/Legado.jpg",
+          "ano": 2022,
+          "artistas": ["Berta Rojas"],
+          "generos": ["Clássico", "Guitarra"],
+          "frase_definicao": "Álbum que reafirma Berta Rojas como uma das maiores guitarristas da América Latina.",
+          "contexto": "Com interpretações refinadas, 'Legado' celebra a tradição da guitarra clássica paraguaia e latino-americana.",
+          "musica_destaque": {
+            "faixa": "Lejanía. Preludio No. 1 de la Serie de Preludios Nostálgicos",
+            "link": "https://open.spotify.com/intl-pt/track/4Gc6HRaHEvXTJOBVoObrqV?si=4d5d446d774f4226"
+          }
+        },
+        {
+          "nome": "Salten, Canten, Griten, Bailen",
+          "capa": "../img/países/Paraguai/Salten, Canten, Griten, Bailen.png",
+          "ano": 2017,
+          "artistas": ["Néstor Ló y Los Caminantes"],
+          "generos": ["Rock", "Folclore"],
+          "frase_definicao": "Álbum que mistura rock com influências folclóricas paraguaias.",
+          "contexto": "Néstor Ló y Los Caminantes se destacaram por unir música popular com rock e letras sociais.",
+          "musica_destaque": {
+            "faixa": "Mamáma",
+            "link": "https://open.spotify.com/intl-pt/track/0JsRLy29xQqkmxAOgsEWwd?si=de881b60bea6439c"
+          }
+        },
+        {
+          "nome": "Guarani Cool",
+          "capa": "../img/países/Paraguai/Guarani Cool.jpg",
+          "ano": 2008,
+          "artistas": ["Kchiporros"],
+          "generos": ["Pop Rock", "Reggae", "Ska"],
+          "frase_definicao": "Álbum que consolidou Kchiporros como banda jovem e popular.",
+          "contexto": "Misturando pop rock com reggae e ska, 'Guarani Cool' se tornou um dos discos mais conhecidos da banda no Paraguai.",
+          "musica_destaque": {
+            "faixa": "Por un Beso",
+            "link": "https://open.spotify.com/intl-pt/track/3HvXu1fBURhtOdP1fP81T9?si=ac2a07e733484414"
+          }
+        },
+        {
+          "nome": "Guantanamera",
+          "capa": "../img/países/Paraguai/Guantanamera.jpg",
+          "ano": 1963,
+          "artistas": ["Luis Alberto del Paraná y Los Paraguayos"],
+          "generos": ["Folclore", "Popular"],
+          "frase_definicao": "Álbum que levou a música paraguaia ao mundo.",
+          "contexto": "Luis Alberto del Paraná e Los Paraguayos se tornaram embaixadores da música paraguaia, levando o folclore a palcos internacionais.",
+          "musica_destaque": {
+            "faixa": "Guantanamera",
+            "link": "https://open.spotify.com/intl-pt/track/7uUYsc7dF9EyujKjZ1Nf4p?si=f67fdeb2ea2f4b64"
+          }
+        },
+        {
+          "nome": "Palavras de Amor",
+          "capa": "../img/países/Paraguai/Palavras de Amor.jpg",
+          "ano": 1976,
+          "artistas": ["Perla"],
+          "generos": ["Balada", "Pop"],
+          "frase_definicao": "Álbum que projetou Perla como cantora romântica.",
+          "contexto": "Perla se tornou uma das vozes mais populares do Paraguai, e 'Palavras de Amor' é um de seus discos mais emblemáticos.",
+          "musica_destaque": {
+            "faixa": "Palavras de Amor (Palabras de Amor)",
+            "link": "https://open.spotify.com/intl-pt/track/6RiCKMQAHJJ9juNBc8hbI1?si=ecefbc9608924d1b"
+          }
+        },
+        {
+          "nome": "Impulsivamente",
+          "capa": "../img/países/Paraguai/Impulsivamente.jpg",
+          "ano": 2005,
+          "artistas": ["Paiko"],
+          "generos": ["Rock Alternativo", "Pop Rock"],
+          "frase_definicao": "Álbum que consolidou Paiko como banda de rock alternativo paraguaio.",
+          "contexto": "Paiko se destacou nos anos 2000 como uma das principais bandas de rock do Paraguai, e 'Impulsivamente' é um de seus discos mais conhecidos.",
+          "musica_destaque": {
+            "faixa": "Caos Total",
+            "link": "https://open.spotify.com/intl-pt/track/5k5MXk6Uh3yNQ2xrDE4xKc?si=7b1a5f6325524ffb"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Suriname",
+      "albuns": [
+        {
+          "nome": "Onafhankelijkheid (Srefidensi) Suriname",
+          "capa": "../img/países/Suriname/Onafhankelijkheid Srefidensi Suriname.webp",
+          "ano": 1975,
+          "artistas": ["The Mighty Botai"],
+          "generos": ["Kaseko", "Folk"],
+          "frase_definicao": "Álbum símbolo da independência do Suriname.",
+          "contexto": "Lançado em 1975, ano da independência, tornou-se um marco cultural e político, celebrando a identidade nacional através do kaseko.",
+          "musica_destaque": {
+            "faixa": "Oh Mama",
+            "link": "https://www.youtube.com/watch?v=woWDQW9uhyc&t=514s"
+          }
+        },
+        {
+          "nome": "Wasmasjien",
+          "capa": "../img/países/Suriname/Wasmasjien.png",
+          "ano": 1985,
+          "artistas": ["Trafassi"],
+          "generos": ["Kaseko", "Salsa", "Soul"],
+          "frase_definicao": "Hit festivo que popularizou Trafassi na diáspora.",
+          "contexto": "Com humor e ritmo contagiante, 'Wasmasjien' virou clássico em festas no Suriname e na Holanda, consolidando Trafassi como banda popular.",
+          "musica_destaque": {
+            "faixa": "Wasmasjien",
+            "link": "https://www.youtube.com/watch?v=qgUIgJ-3hLw"
+          }
+        },
+        {
+          "nome": "King of Kasèko",
+          "capa": "../img/países/Suriname/King of Kasèko.webp",
+          "ano": 1974,
+          "artistas": ["Lieve Hugo"],
+          "generos": ["Kaseko"],
+          "frase_definicao": "Obra de Lieve Hugo, ícone do kaseko.",
+          "contexto": "Considerado o maior nome do kaseko, Lieve Hugo se tornou símbolo da música popular surinamesa, especialmente após sua morte em 1975.",
+          "musica_destaque": {
+            "faixa": "Okrosoepoe",
+            "link": "https://www.youtube.com/watch?v=62qQ0Io5PLM&t=1208s"
+          }
+        },
+        {
+          "nome": "Let's Sing & Dance",
+          "capa": "../img/países/Suriname/Let's Sing & Dance.jpg",
+          "ano": 1968,
+          "artistas": ["Dropati"],
+          "generos": ["Chutney", "Hindustani Folk"],
+          "frase_definicao": "Primeiro grande álbum de chutney caribenho.",
+          "contexto": "Dropati é considerada a mãe da música chutney. Este disco de canções de casamento indianas influenciou toda a música indo-caribenha.",
+          "musica_destaque": {
+            "faixa": "Manikdhar Jhabeeya",
+            "link": "https://www.youtube.com/watch?v=WgKMpHTft-8"
+          }
+        },
+        {
+          "nome": "Iwan and Friends",
+          "capa": "../img/países/Suriname/Iwan and friends.png",
+          "ano": 1983,
+          "artistas": ["Iwan Esseboom"],
+          "generos": ["Kaseko", "Kawina"],
+          "frase_definicao": "Álbum popular que misturou humor e crítica social.",
+          "contexto": "Iwan Esseboom se destacou como cantor popular, e 'Wittie Visie' consolidou sua carreira com letras irreverentes e ritmos vibrantes.",
+          "musica_destaque": {
+            "faixa": "Wittie Visie",
+            "link": "https://open.spotify.com/intl-pt/track/5n3tFMs3DdxoRbLfva55Y9?si=ef6f198477834c7c"
+          }
+        },
+        {
+          "nome": "The King of Suriname",
+          "capa": "../img/países/Suriname/The King of Suriname.png",
+          "ano": 1976,
+          "artistas": ["Ramdew Chaitoe"],
+          "generos": ["Baithak Gana", "Hindustani"],
+          "frase_definicao": "Álbum pioneiro do baithak gana no Suriname.",
+          "contexto": "Ramdew Chaitoe foi um dos grandes nomes da música hindustani no Suriname, e este disco é considerado um dos pilares do gênero.",
+          "musica_destaque": {
+            "faixa": "Bebhena Aawe",
+            "link": "https://youtu.be/-ruYeKtp_Pg?si=lHMD3tyEtqSny06z"
+          }
+        },
+        {
+          "nome": "Surinam! Boogie & Disco Funk From The Surinamese Dance Floors 76'–83'",
+          "capa": "../img/países/Suriname/Surinam Boogie & Disco Funk From The Surinamese Dance Floors 76'–83'.jpg",
+          "ano": 2012,
+          "artistas": ["Alwin Reingoud","Erwin Bouterse & The Group Roetoe","Solat","Billy Jones","Sumy","Thunderstorm","Usje Sukatma"],
+          "generos": ["Funk", "Disco"],
+          "frase_definicao": "Compilação que resgatou raridades da cena disco-funk.",
+          "contexto": "Este álbum reúne faixas raras da cena boogie e disco funk do Suriname entre 1976 e 1983, mostrando a conexão do país com tendências globais.",
+          "musica_destaque": {
+            "faixa": "Disco Party",
+            "link": "https://www.youtube.com/watch?v=Vfjksm_v70A"
+          }
+        },
+        {
+          "nome": "Boeke",
+          "capa": "../img/países/Suriname/Boeke.jpg",
+          "ano": 2005,
+          "artistas": ["Aptijt","Dj Dunil"],
+          "generos": ["Kaseko", "Pop"],
+          "frase_definicao": "Álbum moderno que revitalizou o kaseko.",
+          "contexto": "Aptijt trouxe frescor ao kaseko com letras urbanas e humor, e 'Boeke' virou hit tanto no Suriname quanto na Holanda.",
+          "musica_destaque": {
+            "faixa": "Boeke",
+            "link": "https://open.spotify.com/intl-pt/track/09r4FNiYVEOsYl345xGODi?si=865c80c1c3264845"
+          }
+        },
+        {
+          "nome": "Love & Kawina",
+          "capa": "../img/países/Suriname/Love & Kawina.jpg",
+          "ano": 2017,
+          "artistas": ["La Rouge"],
+          "generos": ["Kawina", "Afro-Surinamesa"],
+          "frase_definicao": "Álbum que trouxe frescor à kawina tradicional.",
+          "contexto": "La Rouge é um grupo masculino do Suriname que modernizou a kawina, misturando tradição afro-surinamesa com elementos contemporâneos e conquistando popularidade tanto no país quanto na diáspora.",
+          "musica_destaque": {
+            "faixa": "Green Ander Voor Mij",
+            "link": "https://open.spotify.com/intl-pt/track/4Mh4dX4epWOCimR9Ea2rWr?si=70a7f223398b4d8c"
+          }
+        },
+        {
+          "nome": "Tuintje In Mijn Hart",
+          "capa": "../img/países/Suriname/Tuintje In Mijn Hart.jpg",
+          "ano": 2011,
+          "artistas": ["Damaru"],
+          "generos": ["Reggae", "Soca", "Kaseko"],
+          "frase_definicao": "Álbum que projetou Damaru internacionalmente.",
+          "contexto": "O disco inclui o grande sucesso 'Mi Rowsu (Tuintje In Mijn Hart)', escrito para sua filha. A versão com Jan Smit alcançou o Top 40 na Holanda, tornando-se um dos maiores hits da música surinamesa contemporânea.",
+          "musica_destaque": {
+            "faixa": "Mi Rowsu (Tuintje In Mijn Hart)",
+            "link": "https://www.youtube.com/watch?v=JGsGAJIYDRo"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Guiana",
+      "albuns": [
+        {
+          "nome": "Killer on the Rampage",
+          "capa": "../img/países/Guiana/Killer on the Rampage.jpg",
+          "ano": 1982,
+          "artistas": ["Eddy Grant"],
+          "generos": ["Reggae-Pop", "Funk", "Rock"],
+          "frase_definicao": "Álbum que projetou Eddy Grant mundialmente.",
+          "contexto": "Inclui os hits 'Electric Avenue' e 'I Don’t Wanna Dance', que alcançaram o topo das paradas nos EUA e Reino Unido, tornando Eddy Grant o artista guianense mais reconhecido internacionalmente.",
+          "musica_destaque": {
+            "faixa": "Electric Avenue",
+            "link": "https://open.spotify.com/intl-pt/track/5WeuqW7eiIj27OiB1hV2BF?si=cbf9cb095ffe4f96"
+          }
+        },
+        {
+          "nome": "Traditional African Ritual Music of Guyana",
+          "capa": "../img/países/Guiana/Traditional African Ritual Music of Guyana.jpg",
+          "ano": 1982,
+          "artistas": ["Caterine Skeet","Margo Johnson","Barbara Pilgrim","Elder Alphonso Gray","Hubert Johnson"],
+          "generos": ["Música Ritual", "Afro-Guyanesa"],
+          "frase_definicao": "Registro etnográfico das tradições afro-guyanesas.",
+          "contexto": "Lançado pela Smithsonian Folkways, preserva cânticos e percussões de comunidades afrodescendentes, ligados à resistência cultural e espiritualidade.",
+          "musica_destaque": {
+            "faixa": "Chin Mongo",
+            "link": "https://open.spotify.com/intl-pt/track/71Cs7KTNlGP37wbS00Ie3a?si=e931adf8c00e4315"
+          }
+        },
+        {
+          "nome": "Johnny Braff Sings For Independence",
+          "capa": "../img/países/Guiana/Johnny Braff Sings For Independence.png",
+          "ano": 1966,
+          "artistas": ["Johnny Braff"],
+          "generos": ["Soul", "R&B"],
+          "frase_definicao": "Álbum lançado no ano da independência da Guiana.",
+          "contexto": "Johnny Braff se tornou ícone nacional com suas baladas românticas e sociais, marcando a identidade cultural da Guiana independente.",
+          "musica_destaque": {
+            "faixa": "A Wonder What's Got Me",
+            "link": "https://www.youtube.com/watch?v=EVwTF_-rYzM"
+          }
+        },
+        {
+          "nome": "Black Liberation Dub",
+          "capa": "../img/países/Guiana/Black Liberation Dub.png",
+          "ano": 1994,
+          "artistas": ["Mad Professor"],
+          "generos": ["Dub", "Reggae"],
+          "frase_definicao": "Álbum referência do dub político.",
+          "contexto": "Mad Professor, nascido na Guiana, tornou-se um dos maiores produtores de dub no Reino Unido. Este disco é um marco da diáspora afro-caribenha.",
+          "musica_destaque": {
+            "faixa": "Freedom Must Be Taken",
+            "link": "https://open.spotify.com/intl-pt/track/5CjpIc9quCVyKIPIgYpaNe?si=5f38ccdd026348e2"
+          }
+        },
+        {
+          "nome": "Music of the Coastal Amerindians of Guyana",
+          "capa": "../img/países/Guiana/Music of the Coastal Amerindians of Guyana.jpg",
+          "ano": 1982,
+          "artistas": ["Joseph Miguel","Rosa Miguel","Claudia Coteman","Philomena Williams","William Smith","Kalina (Carib) woman","Harry Peneux","Lokono-Arawak man","Carl Peneux","Clyde Copin","Donald Herman","Uncle Joe Hendricks","Charles George","Charles Lowe","Rudolph Williams","Carl Abrams","Warao man","Orealla","Warao man with banjo","Genevieve Quailo","Nathan France"],
+          "generos": ["Música Tradicional", "Ameríndia"],
+          "frase_definicao": "Registro das tradições indígenas costeiras da Guiana.",
+          "contexto": "Produzido pela Smithsonian Folkways, documenta cantos e danças das comunidades Arawak, Carib e Warrau, preservando línguas e rituais ancestrais.",
+          "musica_destaque": {
+            "faixa": "Budgi ba nae",
+            "link": "https://open.spotify.com/intl-pt/track/3R7CCgEhsSwMnxwWJs2n4n?si=e765e164128e4b6b"
+          }
+        },
+        {
+          "nome": "Changes",
+          "capa": "../img/países/Guiana/Changes.jpg",
+          "ano": 2009,
+          "artistas": ["Charmaine Blackman"],
+          "generos": ["Rock", "Reggae", "Funk"],
+          "frase_definicao": "Álbum contemporâneo com mensagens sociais.",
+          "contexto": "Charmaine Blackman é uma das principais cantoras da Guiana. 'Changes' aborda temas sociais e ambientais, incluindo mudanças climáticas.",
+          "musica_destaque": {
+            "faixa": "Changes",
+            "link": "https://open.spotify.com/intl-pt/track/42peBRXtIODes8GBoFCsPc?si=73004294248d464c"
+          }
+        },
+        {
+          "nome": "Stupidy",
+          "capa": "../img/países/Guiana/Stupidy.png",
+          "ano": 2004,
+          "artistas": ["El Sadiek & De Sugar Cake Girls"],
+          "generos": ["Chutney", "Soca"],
+          "frase_definicao": "Álbum que misturou chutney com humor popular.",
+          "contexto": "Representa a presença cultural indiana na Guiana e sua fusão com ritmos caribenhos, tornando-se cult na diáspora.",
+          "musica_destaque": {
+            "faixa": "Stupidy",
+            "link": "https://www.youtube.com/watch?v=SHUiA5CWShg"
+          }
+        },
+        {
+          "nome": "Rep 592 Compilation Album Vol.1",
+          "capa": "../img/países/Guiana/Rep 592 Compilation Album Vol.1.webp",
+          "ano": 2016,
+          "artistas": ["Fojo","Remmington","Lil Clowin","Little J","Nesta Nelson","Racs","Davy Marley","Dead-Ly","Adrian Dutchin"],
+          "generos": ["Hip-Hop", "Dancehall", "Soca"],
+          "frase_definicao": "Compilação que promoveu artistas urbanos da Guiana.",
+          "contexto": "Mostra a vitalidade da cena contemporânea guianense, reunindo novos talentos em hip-hop, dancehall e soca.",
+          "musica_destaque": {
+            "faixa": "Dry yout Tears",
+            "link": "https://audiomack.com/demrocmusic/song/dry-your-tears"
+          }
+        },
+        {
+          "nome": "Far from Reality",
+          "capa": "../img/países/Guiana/Far from Reality.jpg",
+          "ano": 2006,
+          "artistas": ["Natural Black"],
+          "generos": ["Roots Reggae"],
+          "frase_definicao": "Álbum que consolidou Natural Black no reggae internacional.",
+          "contexto": "Natural Black, nascido na Guiana, tornou-se figura importante no reggae jamaicano. Este disco pela Greensleeves Records marcou sua carreira.",
+          "musica_destaque": {
+            "faixa": "Far from Reality",
+            "link": "https://open.spotify.com/intl-pt/track/5Dxw9si8HBjVsFuNySoSIV?si=a55cc0dcaf284fc2"
+          }
+        },
+        {
+          "nome": "Guyana Baboo And Pack Up",
+          "capa": "../img/países/Guiana/Guyana Baboo And Pack Up.png",
+          "ano": 1994,
+          "artistas": ["Terry Gajraj","David Ramoutar"],
+          "generos": ["Chutney Soca"],
+          "frase_definicao": "Álbum que popularizou o chutney soca guianense.",
+          "contexto": "Terry Gajraj é conhecido como 'Rei do Chutney Soca'. Este disco ajudou a difundir o gênero na diáspora, especialmente nos EUA e Canadá.",
+          "musica_destaque": {
+            "faixa": "Guyana Baboo",
+            "link": "https://www.youtube.com/watch?v=bwW7ni0aTOE"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Equador",
+      "albuns": [
+        {
+          "nome": "Reminiscencias y otros valses inolvidables",
+          "capa": "../img/países/Equador/Reminiscencias y otros valses inolvidables.png",
+          "ano": 1968,
+          "artistas": ["Julio Jaramillo"],
+          "generos": ["Bolero", "Vals", "Pasillo"],
+          "frase_definicao": "Álbum que consagrou Julio Jaramillo como 'Ruiseñor de América'.",
+          "contexto": "Julio Jaramillo é o maior ícone da música equatoriana, e este disco reúne valses e pasillos que se tornaram clássicos em toda a América Latina.",
+          "musica_destaque": {
+            "faixa": "Reminiscencias",
+            "link": "https://open.spotify.com/intl-pt/track/5TFSP15IwxUylJEEYD1tFy?si=d5937f2c761a4311"
+          }
+        },
+        {
+          "nome": "Marimba Magia",
+          "capa": "../img/países/Equador/Marimba Magia.jpg",
+          "ano": 2000,
+          "artistas": ["Papá Roncón & Katanga"],
+          "generos": ["Marimba", "Afro-Equatoriano"],
+          "frase_definicao": "Álbum que celebra a tradição afro-equatoriana da marimba.",
+          "contexto": "Papá Roncón é mestre da marimba e referência da cultura afro-equatoriana. Este disco mistura tradição e inovação, preservando ritmos ancestrais.",
+          "musica_destaque": {
+            "faixa": "Caderona",
+            "link": "https://open.spotify.com/intl-pt/track/0VDiAgq4xsT5zAUFifg2Iu?si=52fdfeb0ade54f5f"
+          }
+        },
+        {
+          "nome": "Sal y Mileto",
+          "capa": "../img/países/Equador/Sal y Mileto.png",
+          "ano": 1999,
+          "artistas": ["Sal y Mileto"],
+          "generos": ["Rock Experimental", "Alternativo"],
+          "frase_definicao": "Primeiro álbum da banda pioneira do rock experimental equatoriano.",
+          "contexto": "Sal y Mileto é considerada uma das bandas mais importantes do rock alternativo equatoriano, com letras críticas e sonoridade experimental.",
+          "musica_destaque": {
+            "faixa": "Craneo",
+            "link": "https://www.youtube.com/watch?v=UItYczQaFu4&t=220s"
+          }
+        },
+        {
+          "nome": "Disco de Oro de Los Brillantes",
+          "capa": "../img/países/Equador/Disco de Oro de Los Brillantes.png",
+          "ano": 1967,
+          "artistas": ["Los Brillantes"],
+          "generos": ["Cumbia", "Pasillo"],
+          "frase_definicao": "Álbum que popularizou Los Brillantes como grupo tropical.",
+          "contexto": "Los Brillantes se tornaram referência da música tropical equatoriana, misturando cumbia e pasillo com grande sucesso popular.",
+          "musica_destaque": {
+            "faixa": "Romance de mi Destino",
+            "link": "https://open.spotify.com/intl-pt/track/0a5hjEZiBdaQ77iPQzUTI7?si=3b4851e943ed4775"
+          }
+        },
+        {
+          "nome": "Jarishimi Kichuapi",
+          "capa": "../img/países/Equador/Jarishimi Kichuapi.png",
+          "ano": 1985,
+          "artistas": ["Enrique Males"],
+          "generos": ["Andino", "Folclore Indígena"],
+          "frase_definicao": "Álbum que reafirma a identidade indígena equatoriana.",
+          "contexto": "Enrique Males é um dos maiores representantes da música indígena do Equador, e este disco celebra a língua quíchua e os ritmos andinos.",
+          "musica_destaque": {
+            "faixa": "Urku urku",
+            "link": "https://open.spotify.com/intl-pt/track/6quvGqdpfBFLxTj5PfoqQJ?si=3914a71fb2f5464c"
+          }
+        },
+        {
+          "nome": "Prender El Alma",
+          "capa": "../img/países/Equador/Prender El Alma.jpg",
+          "ano": 2015,
+          "artistas": ["Nicola Cruz"],
+          "generos": ["Música Eletrônica", "Andean Fusion"],
+          "frase_definicao": "Álbum que projetou Nicola Cruz como referência da eletrônica andina.",
+          "contexto": "Nicola Cruz mistura música eletrônica com sons tradicionais andinos, criando uma estética única que ganhou reconhecimento internacional.",
+          "musica_destaque": {
+            "faixa": "Cumbia del Olvido",
+            "link": "https://open.spotify.com/intl-pt/track/1oCHMNWzKJdwdwjsPMjXf3?si=8ff9d5f214be4939"
+          }
+        },
+        {
+          "nome": "1",
+          "capa": "../img/países/Equador/1.png",
+          "ano": 1977,
+          "artistas": ["Ñanda Mañachi"],
+          "generos": ["Andino", "Folclore"],
+          "frase_definicao": "Álbum que popularizou a música indígena quíchua.",
+          "contexto": "Ñanda Mañachi é um grupo indígena que levou a música quíchua para palcos nacionais e internacionais, reforçando a identidade cultural do Equador.",
+          "musica_destaque": {
+            "faixa": "Como Chihuaco",
+            "link": "https://www.youtube.com/watch?v=haw0SB08Gv4"
+          }
+        },
+        {
+          "nome": "Vota por Mí",
+          "capa": "../img/países/Equador/Vota por Mí.png",
+          "ano": 1992,
+          "artistas": ["Mortal Decisión"],
+          "generos": ["Rock", "Metal"],
+          "frase_definicao": "Álbum que marcou a cena rock underground equatoriana.",
+          "contexto": "Mortal Decisión é uma das bandas pioneiras da cena punk no Equador, e este disco é considerado cult na cena alternativa.",
+          "musica_destaque": {
+            "faixa": "Vota por Mí",
+            "link": "https://www.youtube.com/watch?v=dGyK1CvXb6k"
+          }
+        },
+        {
+          "nome": "La Quinceañera",
+          "capa": "../img/países/Equador/La Quinceañera.jpg",
+          "ano": 2006,
+          "artistas": ["Mirella Cesa"],
+          "generos": ["Andipop", "Pop"],
+          "frase_definicao": "Álbum que lançou Mirella Cesa como 'mãe do Andipop'.",
+          "contexto": "Mirella Cesa criou o gênero 'Andipop', misturando pop com instrumentos andinos. 'La Quinceañera' a projetou internacionalmente.",
+          "musica_destaque": {
+            "faixa": "Linda Despedida",
+            "link": "https://open.spotify.com/intl-pt/track/70SDJUuA48bHCFr5NBpeic?si=1b0001750f9e48be"
+          }
+        },
+        {
+          "nome": "La Toquilla",
+          "capa": "../img/países/Equador/La Toquilla.jpg",
+          "ano": 2019,
+          "artistas": ["La Toquilla"],
+          "generos": ["Pop", "Andino"],
+          "frase_definicao": "Álbum que mistura pop contemporâneo com raízes equatorianas.",
+          "contexto": "La Toquilla é uma artista equatoriana que combina sonoridades modernas com instrumentos tradicionais, criando uma fusão inovadora.",
+          "musica_destaque": {
+            "faixa": "La Bocina",
+            "link": "https://open.spotify.com/intl-pt/track/7dCEbjAsqD6gTFkOo1RLOl?si=7dba9a91a46d44da"
+          }
+        }
+      ]
+    },
+    {
+      "pais": "Guiana Francesa",
+      "albuns": [
+        {
+          "nome": "La bal masqué",
+          "capa": "../img/países/Guiana Francesa/La bal masqué.jpg",
+          "ano": 1984,
+          "artistas": ["La Compagnie Créole"],
+          "generos": ["Zouk", "Pop Caribenho"],
+          "frase_definicao": "Álbum festivo que popularizou La Compagnie Créole internacionalmente.",
+          "contexto": "Formada na Guiana Francesa e Martinica, La Compagnie Créole levou o zouk e a música festiva caribenha para o mundo, com hits que se tornaram clássicos da francofonia.",
+          "musica_destaque": {
+            "faixa": "La bal masqué",
+            "link": "https://open.spotify.com/intl-pt/track/0ZgRT1UmcCJ36KY39Jb1EA?si=2a31dbfe11384fb2"
+          }
+        },
+        {
+          "nome": "Salambô",
+          "capa": "../img/países/Guiana Francesa/Salambô.webp",
+          "ano": 1990,
+          "artistas": ["Chris Combette"],
+          "generos": ["Reggae", "Chanson", "Caribenho"],
+          "frase_definicao": "Álbum que projetou Chris Combette como voz da diáspora guianense.",
+          "contexto": "Chris Combette mistura reggae, chanson francesa e ritmos caribenhos, trazendo letras de resistência e identidade cultural.",
+          "musica_destaque": {
+            "faixa": "Salambô",
+            "link": "https://open.spotify.com/intl-pt/track/1HYISSGpUIPW78bAdLeDdX?si=fb577f0e6fe24ffc"
+          }
+        },
+        {
+          "nome": "Mèci",
+          "capa": "../img/países/Guiana Francesa/Mèci.jpg",
+          "ano": 1992,
+          "artistas": ["Edith Lefel"],
+          "generos": ["Zouk", "Chanson"],
+          "frase_definicao": "Álbum que consagrou Edith Lefel como diva do zouk.",
+          "contexto": "Nascida na Guiana Francesa, Edith Lefel se tornou uma das maiores intérpretes do zouk, misturando romantismo e sofisticação musical.",
+          "musica_destaque": {
+            "faixa": "Premié l'anmou",
+            "link": "https://open.spotify.com/intl-pt/track/1HCROSbICYIxtPDst4xxfa?si=9ea75ad9d4214541"
+          }
+        },
+        {
+          "nome": "Music of the Haut Oyapok: Oyampi and Emerillon Indian Tribes, French Guiana, South América",
+          "capa": "../img/países/Guiana Francesa/Music of the Haut Oyapok.jpg",
+          "ano": 1970,
+          "artistas": ["Captain Monpera","Wayampi boy","Camopi","Wayampi musicians","Trois Sauts","Kwi-o-li"],
+          "generos": ["Música Tradicional", "Ameríndia"],
+          "frase_definicao": "Registro etnográfico das comunidades Oyampi e Emerillon.",
+          "contexto": "Produzido pela Smithsonian Folkways, este disco documenta cantos e rituais indígenas da região do Haut Oyapok, preservando línguas e práticas ancestrais.",
+          "musica_destaque": {
+            "faixa": "Bone Flute-1",
+            "link": "https://open.spotify.com/intl-pt/track/1m3OI5S8ccfFe9SjeAub4J?si=1ab8997c97f449d4"
+          }
+        },
+        {
+          "nome": "Poesie de la Negritude",
+          "capa": "../img/países/Guiana Francesa/Poesie de la Negritude.jpg",
+          "ano": 1967,
+          "artistas": ["Léon-Gontran Damas"],
+          "generos": ["Poesia Recitada", "Chanson"],
+          "frase_definicao": "Álbum de poesia sobre a negritude na Guiana Francesa.",
+          "contexto": "Léon-Gontran Damas, poeta da negritude nascido na Guiana Francesa, gravou este disco recitando seus poemas, reforçando a luta contra o racismo e a valorização da identidade negra.",
+          "musica_destaque": {
+            "faixa": "Foi de Marron",
+            "link": "https://open.spotify.com/intl-pt/track/7fL5mT3OarENwekkOph3hB?si=0ad99fe3078e4b63"
+          }
+        },
+        {
+          "nome": "Traffic Inter",
+          "capa": "../img/países/Guiana Francesa/Traffic Inter.jpg",
+          "ano": 2022,
+          "artistas": ["Jahyanai"],
+          "generos": ["Dancehall", "Trap", "Afrobeat"],
+          "frase_definicao": "Álbum que projetou Jahyanai como voz urbana da Guiana Francesa.",
+          "contexto": "Misturando dancehall, trap e afrobeat, Jahyanai levou a música urbana guianense para o cenário internacional, especialmente na França.",
+          "musica_destaque": {
+            "faixa": "In Love",
+            "link": "https://open.spotify.com/intl-pt/track/4WM7I8zRXJ6qjl4kuHeHrF?si=80f00798b9ec4036"
+          }
+        },
+        {
+          "nome": "Wayãpi Guyane",
+          "capa": "../img/países/Guiana Francesa/Wayãpi Guyane.jpg",
+          "ano": 1980,
+          "artistas": ["Wayãpi", "Jean-Michel Beaudet"],
+          "generos": ["Música Tradicional", "Ameríndia"],
+          "frase_definicao": "Registro musical da comunidade Wayãpi.",
+          "contexto": "Jean-Michel Beaudet documentou cantos e rituais da comunidade indígena Wayãpi, reforçando a importância da preservação cultural na Guiana Francesa.",
+          "musica_destaque": {
+            "faixa": "Pupu",
+            "link": "https://www.youtube.com/watch?v=4fXG7_nrLlc"
+          }
+        },
+        {
+          "nome": "Vous les hommes",
+          "capa": "../img/países/Guiana Francesa/Vous les hommes.jpg",
+          "ano": 2007,
+          "artistas": ["Fanny J"],
+          "generos": ["Zouk", "R&B"],
+          "frase_definicao": "Álbum que consolidou Fanny J como estrela do zouk contemporâneo.",
+          "contexto": "Nascida em Cayenne, Fanny J se tornou uma das maiores vozes femininas do zouk moderno, misturando romantismo e influências do R&B.",
+          "musica_destaque": {
+            "faixa": "Ancrée À Ton Port",
+            "link": "https://open.spotify.com/intl-pt/track/05xLOpipHWbGG0CboVVrXy?si=f18d3056ef314d81"
+          }
+        },
+        {
+          "nome": "Dibout",
+          "capa": "../img/países/Guiana Francesa/Dibout.jpg",
+          "ano": 2022,
+          "artistas": ["Saina Manotte"],
+          "generos": ["Zouk", "Pop Caribenho"],
+          "frase_definicao": "Álbum que revelou Saina Manotte como nova voz da Guiana Francesa.",
+          "contexto": "Saina Manotte mistura zouk com pop contemporâneo, trazendo frescor à cena musical guianense e conquistando espaço na francofonia.",
+          "musica_destaque": {
+            "faixa": "Ta priorité",
+            "link": "https://open.spotify.com/intl-pt/track/32GwbA5ZEoJyxvYikpsxn9?si=8f9ea48cf8e54fe2"
+          }
+        },
+        {
+          "nome": "Nèg Mawon de Guyane (Musique du monde / Music from the World)",
+          "capa": "../img/países/Guiana Francesa/Nèg Mawon de Guyane.jpg",
+          "ano": 1995,
+          "artistas": ["Les Bushinengé","Dyalusu Uman","Angi Fusi","Dyalusu Uman","Angi Fushi","Wan Ton Mélody","Big Control","Gadu Akamia","Kapiten Marcel","Papa Annéli","Haïtanga De Kourou","Norina Sondreyou","Dyalusu Uman","Bigi Ting","System Tranga Noto Maripasoula"],
+          "generos": ["Afro-Guyanês", "Tradicional"],
+          "frase_definicao": "Álbum que celebra a cultura Businengé da Guiana Francesa.",
+          "contexto": "Les Businengé representam descendentes de africanos escravizados que fugiram e criaram comunidades autônomas. Este disco preserva cantos e ritmos tradicionais, reforçando a memória da resistência.",
+          "musica_destaque": {
+            "faixa": "Aleké",
+            "link": "https://open.spotify.com/intl-pt/track/4nf3QXiTOaCoXFM0QuM5uA?si=a0e7002741894088"
+          }
+        }
+      ]
+    }
+  ]
+}

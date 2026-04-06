@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sangue Latino</title>
+    <link rel="shortcut icon" href="img/fav-ico.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link href="css/estilo.css" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <nav class="navbar navbar-expand-md navbar-dark container desktop">
+            <div class="collapse navbar-collapse" id="menu-navbar">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#disco"><strong>Disco do Dia</strong></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#consulta"><strong>Consulta</strong></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sobre"><strong>Sobre o Projeto</strong></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <nav class="mobile container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-end">
+                        <div id="mySidenav" class="sidenav">
+                            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                            <a href="#disco" onclick="closeNav()">Disco do Dia</a>
+                            <a href="#consulta" onclick="closeNav()">Consulta</a>
+                            <a href="#sobre" onclick="closeNav()">Sobre o Projeto</a>
+                        </div>
+                        <span class="menu-mobile" onclick="openNav()">&#9776;</span>
+                    </div>
+                </div>
+            </div>            
+        </nav>
+        <div class="container pt-7">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="imagem-texto sangue">
+                        <img src="img/latina.png">
+                        <h1 class="overlay-text">SANGUE<br>LATINO</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section id="bandeiras">
+            <div class="bandeirinhas-slider">
+                <div class="bandeirinhas-track">
+                    <img src="img/países/bandeiras/bandeira-brasil.png" alt="Brasil">
+                    <img src="img/países/bandeiras/bandeira-suriname.png" alt="Suriname">
+                    <img src="img/países/bandeiras/bandeira-argentina.png" alt="Argentina">
+                    <img src="img/países/bandeiras/bandeira-equador.png" alt="Equador">
+                    <img src="img/países/bandeiras/bandeira-peru.png" alt="Peru">
+                    <img src="img/países/bandeiras/bandeira-guiana.png" alt="Guiana">
+                    <img src="img/países/bandeiras/bandeira-paraguai.png" alt="Paraguai">
+                    <img src="img/países/bandeiras/bandeira-colombia.png" alt="Colombia">
+                    <img src="img/países/bandeiras/bandeira-chile.png" alt="Chile">
+                    <img src="img/países/bandeiras/bandeira-guiana_francesa.png" alt="Guiana Francesa">
+                    <img src="img/países/bandeiras/bandeira-uruguai.png" alt="Uruguai">
+                    <img src="img/países/bandeiras/bandeira-bolivia.png" alt="Boliia">
+                    <img src="img/países/bandeiras/bandeira-venezuela.png" alt="Venezuela">
+
+                    <img src="img/países/bandeiras/bandeira-brasil.png" alt="Brasil">
+                    <img src="img/países/bandeiras/bandeira-suriname.png" alt="Suriname">
+                    <img src="img/países/bandeiras/bandeira-argentina.png" alt="Argentina">
+                    <img src="img/países/bandeiras/bandeira-equador.png" alt="Equador">
+                    <img src="img/países/bandeiras/bandeira-peru.png" alt="Peru">
+                    <img src="img/países/bandeiras/bandeira-guiana.png" alt="Guiana">
+                    <img src="img/países/bandeiras/bandeira-paraguai.png" alt="Paraguai">
+                    <img src="img/países/bandeiras/bandeira-colombia.png" alt="Colombia">
+                    <img src="img/países/bandeiras/bandeira-chile.png" alt="Chile">
+                    <img src="img/países/bandeiras/bandeira-guiana_francesa.png" alt="Guiana Francesa">
+                    <img src="img/países/bandeiras/bandeira-uruguai.png" alt="Uruguai">
+                    <img src="img/países/bandeiras/bandeira-bolivia.png" alt="Boliia">
+                    <img src="img/países/bandeiras/bandeira-venezuela.png" alt="Venezuela">
+                </div>
+            </div>
+        </section>
+        <section id="disco">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-10 card text-center pb-5">
+                        <h2>Disco do Dia</h2>
+                        <section id="disco-do-dia" class="text-center">
+                            <div class="pt-5 d-flex justify-content-center align-items-center position-relative">
+                                <img src="img/vinil.png" alt="Vinil" class="vinil">
+                                <img id="capa-disco" src="" class="capa" alt="Capa de Disco">
+                            </div>
+                            <h5 id="frase-definicao">Frase do disco aqui...</h5>
+                            <h5 id="contexto">Contexto do disco aqui...</h5>
+                            <p class="pt-5">
+                                País: <span id="pais"></span><br>
+                                Artista(s): <span id="artistas"></span><br>
+                                Disco: <span id="nome-disco"></span><br>
+                                Gênero(s): <span id="generos"></span><br>
+                                Ano: <span id="ano"></span><br>
+                                Faixa Recomendada: <span id="faixa"></span>
+                            </p>
+                            <a id="link-faixa" class="pb-5" href="#" target="_blank">
+                                <img src="img/botao-play.png" class="pt-3 mx-auto icone-play" alt="Ouvir Faixa Recomendada" title="Ouvir Faixa Recomendada">
+                            </a>
+                        </section>
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
+            </div>
+        </section>
+        <section class="espaco text-center">
+            <img class="mx-auto maracas" src="img/maracas.png" alt="Ícone de Maracas">
+        </section>
+        <section id="consulta">
+            <div class="container card">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2>Consulta</h2>
+                        <h5>Consulte por nome ou gênero, e descubra os discos que marcaram a história da música sul-americana.</h5>
+                    </div>
+                    <div class="col-md-9"></div>
+                    <div class="col-md-3 text-end pe-5">
+                        <label class="text-white" for="pesquisa">Consultar:</label>
+                        <input class="mt-2" id="pesquisa" type="text">
+                    </div>
+                    <div class="col-md-2 pt-5">
+                        <h4 class="text-white mobile"> Selecione por País:</h4>
+                        <div class="list-group" id="list-tab" role="tablist">
+                        </div>
+                    </div>
+                    <div class="col-md-10 pt-5 pe-4 pb-5">
+                        <div class="tab-content" id="nav-tabContent">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="espaco text-center">
+            <img class="mx-auto tambor" src="img/tambor.png" alt="Ícone de Tambor">
+        </section>
+        <section id="sobre">
+            <div class="container card">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-10 pt-5">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 text-center">
+                                    <img src="img/disco-de-vinil.png" class="mx-auto" width="200px">
+                                </div>
+                                <div class="col-md-6 text-center">
+                                    <h2>SOBRE O <br>PROJETO</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="pt-5">Sangue Latino, além de homenagear a música de Secos & Molhados, como o nome evidencia, é um projeto que busca evocar a identidade das raízes sul-americanas por meio daquilo que mais nos aproxima e conecta: nossa música.
+                        <br><br>
+                        Me inspirei no conceito de “América Invertida”, criado em 1935 pelo artista uruguaio Joaquín Torres García, com intenção de propor um olhar para o nosso continente a partir de uma perspectiva própria, onde o sul não é periferia, mas centro. Assim como Torres García desafiou a geografia simbólica ao virar o mapa de cabeça para baixo, nós escolhemos o nosso norte cultural através da música, como expressão viva das histórias, lutas e esperanças de nossos povos.
+                        <br><br>
+                        A seleção de 10 discos populares entre os 13 países e territórios da América do Sul aqui é mais que um inventário musical, é um gesto de afirmação. Cada álbum representa não apenas um estilo ou gênero, mas vozes coletivas, movimentos culturais e forças ancestrais que ecoam raízes indígenas, africanas, ribeirinhas e sertanejas, traduzindo a pluralidade que compõe o sangue latino.
+                        <br><br>
+                        Ao percorrer esses discos, este projeto busca revelar como a música sul-americana é capaz de atravessar fronteiras, unir diferenças e construir uma narrativa própria, independente das hierarquias impostas pelo olhar externo. Se Torres García dizia que “nosso norte é o sul”, aqui podemos reafirmar que nosso norte é a música, como o fio que costura identidades e nos devolve o poder de contar nossa própria história.
+                        </p>
+                        <div class="text-center pb-5">
+                            <img src="img/perfil.png" class="perfil mx-auto pt-5" alt="Lucas Melquiades - Responsável pelo Projeto">
+                            <p class="pt-2">Desenvolvido por:<br>
+                            <a href="https://lucasmelquiades.github.io/" target="_blank">
+                                <strong>Lucas Melquiades</strong>
+                            </a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
+            </div>
+        </section>
+        <section class="espaco text-center text-white">
+            <img class="mx-auto viola" src="img/viola.png" alt="Ícone de Tambor">
+            <h5 class="pt-3">"A música é o alimento da alma e da cidadania.”</h5>
+            <h4>Gilberto Gil</h4>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="js/funcoes.js"></script>
+</body>
+</html>
