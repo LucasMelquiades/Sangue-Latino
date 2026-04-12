@@ -623,7 +623,7 @@
         },
         {
           "nome": "Soy Sola",
-          "capa": "img/países/Uruguai/Soy sola.jpg",
+          "capa": "img/países/Uruguai/Soy Sola.png",
           "ano": 2006,
           "artistas": ["Ana Prada"],
           "generos": ["Pop", "Folk"],
@@ -976,7 +976,7 @@
         },
         {
           "nome": "Tarimba Negra",
-          "capa": "img/países/Peru/Tarimba Negra.jpg",
+          "capa": "img/países/Peru/Tarimba Negra.png",
           "ano": 1978,
           "artistas": ["Chabuca Granda"],
           "generos": ["Criollo", "Vals Peruano"],
