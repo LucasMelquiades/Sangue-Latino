@@ -92,6 +92,23 @@ a.nav-link {
     color: var(--font-primary-color);
 }
 
+.sangue-arvore h1 {
+    font-family: "Stardos Stencil", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--font-secondary-color);
+    font-size: 3.5rem;
+}
+
+.arvore img {
+    display: block;
+    width: 250px !important;
+}
+
+.btn-arvore {
+    background-color: var(--secondary-color) !important;
+}
+
 .imagem-texto {
     position: relative; 
     display: inline-block;

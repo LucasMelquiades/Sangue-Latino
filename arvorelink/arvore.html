@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sangue Latino - Árvore de Links</title>
+  <link href="../css/estilo.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="d-flex flex-column align-items-center justify-content-center vh-100">
+
+  <!-- Logo -->
+  <div class="mb-4">
+    <div class="imagem-texto arvore sangue-arvore">
+      <img src="../img/latina.png">
+      <h1 class="overlay-text">SANGUE<br>LATINO</h1>
+    </div>
+  </div>
+
+  <!-- Botões -->
+  <div class="d-flex flex-column gap-3 w-75">
+    <a href="https://lucasmelquiades.github.io/Sangue-Latino/" class="btn btn-arvore btn-lg text-white">Conheça o Projeto</a>
+    <a href="https://www.instagram.com/sanguelatino_as" target="_blank" class="btn btn-arvore btn-lg text-white">Página no Instagram</a>
+    <a href="#" onclick="copiarTexto('lucas-1106@hotmail.com')" class="btn btn-arvore btn-lg text-white">Clique aqui e copie o Pix</a>
+  </div>
+
+  <script>
+    function copiarTexto(texto) {
+      navigator.clipboard.writeText(texto).then(() => {
+        Swal.fire({
+          icon: 'success',
+          title: 'Pix Copiado!',
+          text: 'O pix "' + texto + '" foi copiado com sucesso.',
+          showConfirmButton: false,
+          timer: 1500
+        });
+      }).catch(err => {
+        Swal.fire({
+          icon: 'error',
+          title: 'Erro',
+          text: 'Não foi possível copiar o pix.'
+        });
+        console.error("Erro ao copiar: ", err);
+      });
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
